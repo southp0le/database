@@ -1,1677 +1,1677 @@
-Stone. : 1
-Grass. : 2
-Dirt. : 3
-Stonebrick. : 4
-wood. : 5
-sapling. : 6
-bedrock. : 7
-water. : 8
-water. : 9
-lava. : 10
-lava. : 11
-sand. : 12
-gravel. : 13
-oreGold. : 14
-oreIron. : 15
-oreCoal. : 16
-log. : 17
-leaves. : 18
-sponge. : 19
-glass. : 20
-oreLapis. : 21
-blockLapis. : 22
-dispenser. : 23
-sandStone. : 24
-musicBlock. : 25
-bed. : 26
-goldenRail. : 27
-detectorRail. : 28
-pistonStickyBase. : 29
-web. : 30
-tallgrass. : 31
-deadbush. : 32
-pistonBase. : 33
-aob. : 34
-cloth. : 35
-aoc. : 36
-flower. : 37
-Brose. : 38
-mushroom. : 39
-mushroom. : 40
-blockGold. : 41
-blockIron. : 42
-stoneSlab. : 43
-stoneSlab. : 44
-brick. : 45
-tnt. : 46
-bookshelf. : 47
-stoneMoss. : 48
-obsian. : 49
-torch. : 50
-fire. : 51
-mobSpawner. : 52
-stairsWood. : 53
-chest. : 54
-redstoneDust. : 55
-oreDiamond. : 56
-blockDiamond. : 57
-workbench. : 58
-crops. : 59
-farmland. : 60
-furnace. : 61
-furnace. : 62
-sign. : 63
-doorWood. : 64
-ladder. : 65
-rail. : 66
-stairsStone. : 67
-sign. : 68
-lever. : 69
-pressurePlate. : 70
-doorIron. : 71
-pressurePlate. : 72
-oreRedstone. : 73
-oreRedstone. : 74
-notGate. : 75
-notGate. : 76
-button. : 77
-snow. : 78
-ice. : 79
-snow. : 80
-cactus. : 81
-clay. : 82
-reeds. : 83
-jukebox. : 84
-fence. : 85
-pumpkin. : 86
-hellrock. : 87
-hellsand. : 88
-lightgem. : 89
-portal. : 90
-litpumpkin. : 91
-cake. : 92
-diode. : 93
-diode. : 94
-lockedchest. : 95
-trapdoor. : 96
-monsterStoneEgg. : 97
-stonebricksmooth. : 98
-mushroom. : 99
-mushroom. : 100
-fenceIron. : 101
-thinGlass. : 102
-melon. : 103
-pumpkinStem. : 104
-pumpkinStem. : 105
-vine. : 106
-fenceGate. : 107
-stairsBrick. : 108
-stairsStoneBrickSmooth. : 109
-mycel. : 110
-waterlily. : 111
-netherBrick. : 112
-netherFence. : 113
-stairsNetherBrick. : 114
-netherStalk. : 115
-enchantmentTable. : 116
-brewingStand. : 117
-cauldron. : 118
-amn. : 119
-endPortalFrame. : 120
-whiteStone. : 121
-dragonEgg. : 122
-redstoneLight. : 123
-redstoneLight. : 124
-woodSlab. : 125
-woodSlab. : 126
-cocoa. : 127
-stairsSandStone. : 128
-oreEmerald. : 129
-enderChest. : 130
-tripWireSource. : 131
-tripWire. : 132
-blockEmerald. : 133
-stairsWoodSpruce. : 134
-stairsWoodBirch. : 135
-stairsWoodJungle. : 136
-commandBlock. : 137
-beacon. : 138
-cobbleWall. : 139
-flowerPot. : 140
-carrots. : 141
-potatoes. : 142
-button. : 143
-skull. : 144
-anvil. : 145
-blockCustomOre. : 200
-com.eloraam.redpower.world.BlockCustomCrops.
-rpleaves. : 211
-rplog. : 212
-rpores. : 213
-indigo. : 214
-rpstone. : 215
-com.eloraam.redpower.world.BlockStorage. : 
-world.blocks.worldGen.xyOre. : 220
-world.blocks.worldGen.quartzCrystal. : 221
-chickenChunkLoader. : 243
-rcOres. : 244
-blockOreUran. : 245
-petroleum. : 246
-oilSands. : 247
-factorizationResourceBlock. : 248
-apatite. : 249
-oreCopper. : 250
-.redrock. : 251
-.crackedsand. : 252
-oilMoving. : 254
-oilStill. : 255
- shovelIron. : 256
- pickaxeIron. : 257
- hatchetIron. : 258
- flintAndSteel. : 259
- apple. : 260
- bow. : 261
- arrow. : 262
- coal. : 263
- diamond. : 264
- ingotIron. : 265
- ingotGold. : 266
- swordIron. : 267
- swordWood. : 268
- shovelWood. : 269
- pickaxeWood. : 270
- hatchetWood. : 271
- swordStone. : 272
- shovelStone. : 273
- pickaxeStone. : 274
- hatchetStone. : 275
- swordDiamond. : 276
- shovelDiamond. : 277
- pickaxeDiamond. : 278
- hatchetDiamond. : 279
- stick. : 280
- bowl. : 281
- mushroomStew. : 282
- swordGold. : 283
- shovelGold. : 284
- pickaxeGold. : 285
- hatchetGold. : 286
- string. : 287
- feather. : 288
- sulphur. : 289
- hoeWood. : 290
- hoeStone. : 291
- hoeIron. : 292
- hoeDiamond. : 293
- hoeGold. : 294
- seeds. : 295
- wheat. : 296
- bread. : 297
- helmetCloth. : 298
- chestplateCloth. : 299
- leggingsCloth. : 300
- bootsCloth. : 301
- helmetChain. : 302
- chestplateChain. : 303
- leggingsChain. : 304
- bootsChain. : 305
- helmetIron. : 306
- chestplateIron. : 307
- leggingsIron. : 308
- bootsIron. : 309
- helmetDiamond. : 310
- chestplateDiamond. : 311
- leggingsDiamond. : 312
- bootsDiamond. : 313
- helmetGold. : 314
- chestplateGold. : 315
- leggingsGold. : 316
- bootsGold. : 317
- flint. : 318
- porkchopRaw. : 319
- porkchopCooked. : 320
- painting. : 321
- appleGold. : 322
- sign. : 323
- doorWood. : 324
- bucket. : 325
- bucketWater. : 326
- bucketLava. : 327
- rc.cart.basic. : 328
- saddle. : 329
- doorIron. : 330
- redstone. : 331
- snowball. : 332
- boat. : 333
- leather. : 334
- milk. : 335
- brick. : 336
- clay. : 337
- reeds. : 338
- paper. : 339
- book. : 340
- slimeball. : 341
- rc.cart.chest. : 342
- rc.cart.furnace. : 343
- egg. : 344
- compass. : 345
- fishingRod. : 346
- clock. : 347
- yellowDust. : 348
- fishRaw. : 349
- fishCooked. : 350
- dyePowder. : 351
- bone. : 352
- sugar. : 353
- cake. : 354
- bed. : 355
- diode. : 356
- cookie. : 357
- map. : 358
- shears. : 359
- melon. : 360
- seeds_pumpkin. : 361
- seeds_melon. : 362
- beefRaw. : 363
- beefCooked. : 364
- chickenRaw. : 365
- chickenCooked. : 366
- rottenFlesh. : 367
- enderPearl. : 368
- blazeRod. : 369
- ghastTear. : 370
- goldNugget. : 371
- netherStalkSeeds. : 372
- potion. : 373
- glassBottle. : 374
- sperEye. : 375
- fermentedSperEye. : 376
- blazePowder. : 377
- magmaCream. : 378
- brewingStand. : 379
- cauldron. : 380
- eyeOfEnder. : 381
- speckledMelon. : 382
- monsterPlacer. : 383
- expBottle. : 384
- fireball. : 385
- writingBook. : 386
- writtenBook. : 387
- emerald. : 388
- frame. : 389
- flowerPot. : 390
- carrots. : 391
- potato. : 392
- potatoBaked. : 393
- potatoPoisonous. : 394
- emptyMap. : 395
- carrotGolden. : 396
- skull. : 397
- carrotOnAStick. : 398
- netherStar. : 399
- pumpkinPie. : 400
- fireworks. : 401
- fireworksCharge. : 402
- enchantedBook. : 403
-architectBlock. : 500
-buildcraft.silicon.BlockAssemblyTable. : 501
-autoWorkbenchBlock. : 502
-libraryBlock. : 503
-builderBlock. : 504
-plainPipeBlock. : 505
-engineBlock. : 506
-fillerBlock. : 507
-frameBlock. : 508
-blockHopper. : 509
-laserBlock. : 510
-markerBlock. : 511
-miningWellBlock. : 512
-pathMarkerBlock. : 513
-buildcraft.transport.BlockGenericPipe. : 514
-pumpBlock. : 515
-machineBlock. : 516
-refineryBlock. : 517
-tankBlock. : 518
-eternalSpring. : 519
-omnitools.block.BlockPlinth. : 580
-blockAlloy. : 600
-blockAlloyGlass. : 601
-ic2.core.block.BlockBarrel. : 602
-ic2.core.block.wiring.BlockCable. : 603
-blockCrop. : 604
-blockDoorAlloy. : 605
-blockDynamite. : 606
-blockDynamiteRemote. : 607
-ic2.core.block.wiring.BlockElectric. : 608
-blockFenceIron. : 609
-blockFoam. : 610
-ic2.core.block.generator.block.BlockGenerator. : 611
-blockHarz. : 612
-blockITNT. : 613
-blockIronScaffold. : 614
-blockLuminator. : 615
-blockLuminatorD. : 616
-ic2.core.block.machine.BlockMachine. : 617
-ic2.core.block.machine.BlockMachine2. : 618
-ic2.core.block.BlockMetal. : 619
-blockMiningPipe. : 620
-blockMiningTip. : 621
-blockNuke. : 622
-ic2.core.block.personal.BlockPersonal. : 623
-blockReactorChamber. : 624
-leaves. : 625
-blockRubSapling. : 626
-blockRubWood. : 627
-blockRubber. : 628
-blockScaffold. : 629
-blockWall. : 630
-blockAdvMachine. : 645
-advsolar.BlockAdvSolarPanel. : 650
-blockThermalMonitor. : 665
-MFFSCapacitor. : 680
-MFFSDefenceStation. : 681
-MFFSExtractor. : 682
-chb.mods.mffs.common.block.BlockForceField. : 683
-MFFSSecurtyStorage. : 684
-MFFSProjector. : 685
-MFFSSecurtyStation. : 686
-MFFSForceEnergyConverter. : 687
-MFFSMonazitOre. : 688
-MFFSControlSystem. : 690
-BlockMeta_Block. : 700
-GT_LightSource. : 701
-BlockMeta_Machine. : 702
-BlockMeta_Ore. : 703
-BlockMeta_Block2. : 704
-com.eloraam.redpower.base.BlockAppliance. : 750
-rpwire. : 751
-com.eloraam.redpower.core.BlockMultiblock. : 752
-com.eloraam.redpower.compat.BlockMachineCompat. : 753
-com.eloraam.redpower.core.BlockMultipart. : 754
-com.eloraam.redpower.control.BlockPeripheral. : 755
-com.eloraam.redpower.core.BlockMultipart. : 756
-rplampoff. : 757
-rplampon. : 758
-rplampoff. : 759
-rplampon. : 760
-com.eloraam.redpower.logic.BlockLogic. : 761
-rpframe. : 762
-rpmachine2. : 763
-com.eloraam.redpower.machine.BlockMachine. : 764
-com.eloraam.redpower.machine.BlockMachinePanel. : 765
-com.eloraam.redpower.lighting.BlockShapedLamp. : 766
-BlockCargoManager. : 901
-BlockCartAssembler. : 902
-BlockJunction. : 903
-BlockAdvDetector. : 904
-BlockActivator. : 905
-BlockDistributor. : 906
-BlockDetector. : 907
-BlockUpgrade. : 908
-alveary. : 925
-candle. : 926
-engine. : 927
-alvearyFan. : 928
-for.fences. : 929
-firsapling. : 930
-harvester. : 931
-alvearyHeater. : 932
-leaves. : 933
-for.log1. : 934
-for.log2. : 935
-for.log3. : 936
-for.log4. : 937
-machine. : 938
-mill. : 939
-forestry.farming.gadgets.BlockMushroom. : 940
-for.planks. : 941
-planter. : 942
-forestry.cultivation.gadgets.BlockSaplings. : 943
-saplingGE. : 944
-for.slabs1. : 945
-for.slabs2. : 946
-soil. : 947
-stained. : 948
-stump. : 949
-swarmer. : 950
-for.stairs. : 951
-ffarm. : 952
-BlockExtraBeeHive. : 960
-ectoplasm. : 961
-advGeneticMachine. : 962
-apiaristMachine. : 963
-geneticMachine. : 964
-binnie.core.machines.BlockMachine. : 965
-IronChest. : 975
-factorization.common.BlockFactorization. : 1000
-lightair. : 1001
-rcCube. : 1050
-cartDetector. : 1051
-elevatorRail. : 1052
-rcBlockMachineAlpha. : 1053
-rcBlockMachineBeta. : 1054
-rcBlockMachineGamma. : 1055
-rcPostBlock. : 1056
-rcMetalPostBlock. : 1057
-rc.signal. : 1058
-railcraftTrack. : 1059
-rc.wall. : 1060
-rc.block.worldlogic. : 1061
-PortalMod. : 1100
-PortalMultiBlock. : 1101
-enderchest. : 1200
-cccomputer. : 1225
-ccdiskdrive. : 1226
-ccturtle. : 1227
-ccturtle. : 1228
-miscperipherals.block.BlockMultiTile. : 1229
-miscperipherals.block.BlockMultiTile. : 1230
-com.eloraam.redpower.logic.BlockLogic. : 1252
-.stairs.acacia. : 1300
-.autumnleaves. : 1301
-.cattail. : 1302
-.log. : 1303
-.redrockslab. : 1304
-.woodslab. : 1305
-.stairs.fir. : 1306
-.flower. : 1307
-.tallgrass. : 1308
-.greenleaves. : 1309
-.leafpile. : 1310
-.planks. : 1311
-.log.quarter. : 1312
-.log.quarter. : 1313
-.log.quarter. : 1314
-.log.quarter. : 1315
-.quicksand. : 1316
-.stairs.redcobble. : 1317
-.stairs.redrockbrick. : 1318
-.redrockslab. : 1319
-.stairs.redwood. : 1320
-.sapling. : 1321
-.wall. : 1322
-.woodslab. : 1323
-world.blocks.aesthetic.xychoriteBlocks. : 1375
-world.blocks.aesthetic.sulfurTorch. : 1376
-world.blocks.aesthetic.cornStalk. : 1377
-world.blocks.aesthetic.henequenPlant. : 1378
-world.blocks.aesthetic.aluminumTorch. : 1379
-world.blocks.aesthetic.xychorite2Blocks. : 1380
-world.blocks.aesthetic.structureBlock. : 1381
-world.blocks.aesthetic.xyLight. : 1382
-world.blocks.aesthetic.xyLightInv. : 1383
-world.blocks.aesthetic.glassViewer. : 1384
-machines.blocks.plasmaTorch. : 1400
-machines.blocks.multiBrick. : 1401
-machines.blocks.ironPlate. : 1402
-machines.blocks.multiInterface. : 1403
-machines.blocks.basicMachine. : 1404
-machines.blocks.multiAir. : 1405
-machines.blocks.multiHard. : 1406
-machines.blocks.multiNormal. : 1407
-machines.blocks.multiSoft. : 1408
-machines.blocks.multiGlass. : 1409
-machines.blocks.mockBlock. : 1410
-machines.blocks.fabricator. : 1411
-cage. : 1475
-soulforge. : 1476
-soultower. : 1478
-TFBossSpawner. : 1500
-TFCicada. : 1501
-TFFirefly. : 1502
-TFFireJet. : 1503
-TFFireflyJar. : 1504
-TFHedge. : 1505
-TFLeaves. : 1506
-TFLog. : 1507
-TFMazestone. : 1508
-TFMoonworm. : 1509
-TFMagicLeaves. : 1510
-TFMagicLog. : 1511
-TFNagastone. : 1512
-TFPlant. : 1513
-TFPortal. : 1514
-TFRoots. : 1515
-TFSapling. : 1516
-TFUncraftingTable. : 1517
-TFTowerStone. : 1519
-TFMagicLogSpecial. : 1520
-TFTowerDevice. : 1522
-TFTowerTranslucent. : 1523
-TFTrophy. : 1524
-pressurePlate. : 1555
-blockPetroleumGenerator. : 1560
-blockArcaneDoor. : 1600
-blockArcaneFurnace. : 1601
-blockCandle. : 1602
-blockChestHungry. : 1603
-blockCrucible. : 1604
-blockCustomPlant. : 1605
-blockFluxGoo. : 1606
-blockHole. : 1607
-blockInfusionWorkbench. : 1608
-blockJar. : 1609
-blockMagicalLeaves. : 1610
-blockMagicalLog. : 1611
-blockMarker. : 1612
-blockSecure. : 1613
-blockTable. : 1614
-blockWooden. : 1615
-blockWoodenDevice. : 1616
-blockLifter. : 1617
-blockNitor. : 1618
-blockCrystal. : 1619
-blockCosmeticOpaque. : 1620
-blockCosmeticSol. : 1621
-blockMirror. : 1622
-tb.planks. : 1750
-tb.slab.wood. : 1751
-tb.slab.wood. : 1752
-thermalexpansion.core.block.BlockOre. : 2001
-thermalexpansion.factory.block.BlockMachine. : 2002
-thermalexpansion.factory.block.BlockRockwool. : 2003
-thermalexpansion.factory.block.BlockHardenedGlass. : 2004
-thermalexpansion.transport.block.BlockConduit. : 2005
-thermalexpansion.energy.block.BlockEnergyCell. : 2006
-thermalexpansion.energy.block.BlockEngine. : 2007
-thermalexpansion.factory.block.BlockTank. : 2008
-thermalexpansion.transport.block.BlockTeleport. : 2009
- record. : 2256
- record. : 2257
- record. : 2258
- record. : 2259
- record. : 2260
- record. : 2261
- record. : 2262
- record. : 2263
- record. : 2264
- record. : 2265
- record. : 2266
- record. : 2267
-assemblyTableI. : 2500
-assemblyTableII. : 2501
-assemblyTableIII. : 2502
-railCoupler. : 2503
-railDetFreight. : 2504
-railDetLoco. : 2505
-railDetPassenger. : 2506
-distille. : 2507
-distilActive. : 2508
-trainWorkbench. : 2509
- woodenGear : 4056
- stoneGear : 4057
- ironGear : 4058
- goldGear : 4059
- diamondGear : 4060
- template : 4061
- wrench : 4062
- bucketOil. : 4063
- fuel. : 4064
- pipeWaterproof. : 4065
- bucketFuel. : 4066
- pipeGate. : 4067
+Stone : 1
+Grass : 2
+Dirt : 3
+Stonebrick : 4
+Wood : 5
+Sapling : 6
+Bedrock : 7
+Water : 8
+Water : 9
+Lava : 10
+Lava : 11
+Sand : 12
+Gravel : 13
+Gold Ore : 14
+Iron Ore : 15
+Coal Ore : 16
+Log : 17
+Leaves : 18
+Sponge : 19
+Glass : 20
+Lapis Ore : 21
+Blocklapis : 22
+Dispenser : 23
+Sandstone : 24
+Musicblock : 25
+Bed : 26
+Goldenrail : 27
+Detectorrail : 28
+Sticky Piston : 29
+Web : 30
+Tall grass : 31
+Deadbush : 32
+Piston : 33
+Aob : 34
+Cloth : 35
+Aoc : 36
+Flower : 37
+Brose : 38
+Mushroom : 39
+Mushroom : 40
+Gold Block : 41
+Iron Block : 42
+Stoneslab : 43
+Stoneslab : 44
+Brick : 45
+Tnt : 46
+Bookshelf : 47
+Stonemoss : 48
+Obsian : 49
+Torch : 50
+Fire : 51
+Mobspawner : 52
+Stairswood : 53
+Chest : 54
+Redstone Dust : 55
+Diamond Ore : 56
+Diamond Block : 57
+Workbench : 58
+Crops : 59
+Farmland : 60
+Furnace : 61
+Furnace : 62
+Sign : 63
+Doorwood : 64
+Ladder : 65
+Rail : 66
+Stairsstone : 67
+Sign : 68
+Lever : 69
+Pressureplate : 70
+Iron Door : 71
+Pressureplate : 72
+Redstone Ore : 73
+Redstone Ore : 74
+Notgate : 75
+Notgate : 76
+Button : 77
+Snow : 78
+Ice : 79
+Snow : 80
+Cactus : 81
+Clay : 82
+Reeds : 83
+Jukebox : 84
+Fence : 85
+Pumpkin : 86
+Hellrock : 87
+Hellsand : 88
+Lightgem : 89
+Portal : 90
+Litpumpkin : 91
+Cake : 92
+Diode : 93
+Diode : 94
+Lockedchest : 95
+Trapdoor : 96
+Monsterstoneegg : 97
+Stonebricksmooth : 98
+Mushroom : 99
+Mushroom : 100
+Fenceiron : 101
+Thinglass : 102
+Melon : 103
+Pumpkinstem : 104
+Pumpkinstem : 105
+Vine : 106
+Fencegate : 107
+Stairsbrick : 108
+Stairsstonebricksmooth : 109
+Mycel : 110
+Waterlily : 111
+Netherbrick : 112
+Netherfence : 113
+Stairsnetherbrick : 114
+Netherstalk : 115
+Enchantmenttable : 116
+Brewingstand : 117
+Cauldron : 118
+Amn : 119
+Endportalframe : 120
+Whitestone : 121
+Dragonegg : 122
+Redstonelight : 123
+Redstonelight : 124
+Woodslab : 125
+Woodslab : 126
+Cocoa : 127
+Stairssandstone : 128
+Emerald Ore : 129
+Enderchest : 130
+Tripwiresource : 131
+Tripwire : 132
+Blockemerald : 133
+Stairswoodspruce : 134
+Stairswoodbirch : 135
+Stairswoodjungle : 136
+Commandblock : 137
+Beacon : 138
+Cobblewall : 139
+Flowerpot : 140
+Carrots : 141
+Potatoes : 142
+Button : 143
+Skull : 144
+Anvil : 145
+Blockcustomore : 200
+Com.Eloraam.Redpower.World.Blockcustomcrops.
+Rpleaves : 211
+Rplog : 212
+Rpores : 213
+Indigo : 214
+Rpstone : 215
+Com.Eloraam.Redpower.World.Blockstorage : 
+World.Blocks.Worldgen.Xyore : 220
+World.Blocks.Worldgen.Quartzcrystal : 221
+Chickenchunkloader : 243
+Rcores : 244
+Uranium Ore: 245
+Petroleum : 246
+Oilsands : 247
+Factorizationresourceblock : 248
+Apatite : 249
+Copper Ore : 250
+.Redrock : 251
+.Crackedsand : 252
+Oilmoving : 254
+Oilstill : 255
+ Shoveliron : 256
+ Pickaxeiron : 257
+ Hatchetiron : 258
+ Flintandsteel : 259
+ Apple : 260
+ Bow : 261
+ Arrow : 262
+ Coal : 263
+ Diamond : 264
+ Ingotiron : 265
+ Ingotgold : 266
+ Swordiron : 267
+ Swordwood : 268
+ Shovelwood : 269
+ Pickaxewood : 270
+ Hatchetwood : 271
+ Swordstone : 272
+ Shovelstone : 273
+ Pickaxestone : 274
+ Hatchetstone : 275
+ Sworddiamond : 276
+ Shoveldiamond : 277
+ Pickaxediamond : 278
+ Hatchetdiamond : 279
+ Stick : 280
+ Bowl : 281
+ Mushroomstew : 282
+ Swordgold : 283
+ Shovelgold : 284
+ Pickaxegold : 285
+ Hatchetgold : 286
+ String : 287
+ Feather : 288
+ Sulphur : 289
+ Hoewood : 290
+ Hoestone : 291
+ Hoeiron : 292
+ Hoediamond : 293
+ Hoegold : 294
+ Seeds : 295
+ Wheat : 296
+ Bread : 297
+ Helmetcloth : 298
+ Chestplatecloth : 299
+ Leggingscloth : 300
+ Bootscloth : 301
+ Helmetchain : 302
+ Chestplatechain : 303
+ Leggingschain : 304
+ Bootschain : 305
+ Helmetiron : 306
+ Chestplateiron : 307
+ Leggingsiron : 308
+ Bootsiron : 309
+ Helmetdiamond : 310
+ Chestplatediamond : 311
+ Leggingsdiamond : 312
+ Bootsdiamond : 313
+ Helmetgold : 314
+ Chestplategold : 315
+ Leggingsgold : 316
+ Bootsgold : 317
+ Flint : 318
+ Porkchopraw : 319
+ Porkchopcooked : 320
+ Painting : 321
+ Applegold : 322
+ Sign : 323
+ Doorwood : 324
+ Bucket : 325
+ Bucketwater : 326
+ Bucketlava : 327
+ Rc.Cart.Basic : 328
+ Saddle : 329
+ Dooriron : 330
+ Redstone : 331
+ Snowball : 332
+ Boat : 333
+ Leather : 334
+ Milk : 335
+ Brick : 336
+ Clay : 337
+ Reeds : 338
+ Paper : 339
+ Book : 340
+ Slimeball : 341
+ Rc.Cart.Chest : 342
+ Rc.Cart.Furnace : 343
+ Egg : 344
+ Compass : 345
+ Fishingrod : 346
+ Clock : 347
+ Yellowdust : 348
+ Fishraw : 349
+ Fishcooked : 350
+ Dyepowder : 351
+ Bone : 352
+ Sugar : 353
+ Cake : 354
+ Bed : 355
+ Diode : 356
+ Cookie : 357
+ Map : 358
+ Shears : 359
+ Melon : 360
+ Seeds_Pumpkin : 361
+ Seeds_Melon : 362
+ Beefraw : 363
+ Beefcooked : 364
+ Chickenraw : 365
+ Chickencooked : 366
+ Rottenflesh : 367
+ Enderpearl : 368
+ Blazerod : 369
+ Ghasttear : 370
+ Goldnugget : 371
+ Netherstalkseeds : 372
+ Potion : 373
+ Glassbottle : 374
+ Spereye : 375
+ Fermentedspereye : 376
+ Blazepowder : 377
+ Magmacream : 378
+ Brewingstand : 379
+ Cauldron : 380
+ Eyeofender : 381
+ Speckledmelon : 382
+ Monsterplacer : 383
+ Expbottle : 384
+ Fireball : 385
+ Writingbook : 386
+ Writtenbook : 387
+ Emerald : 388
+ Frame : 389
+ Flowerpot : 390
+ Carrots : 391
+ Potato : 392
+ Potatobaked : 393
+ Potatopoisonous : 394
+ Emptymap : 395
+ Carrotgolden : 396
+ Skull : 397
+ Carrotonastick : 398
+ Netherstar : 399
+ Pumpkinpie : 400
+ Fireworks : 401
+ Fireworkscharge : 402
+ Enchantedbook : 403
+Architectblock : 500
+Buildcraft.Silicon.Blockassemblytable : 501
+Autoworkbenchblock : 502
+Libraryblock : 503
+Builderblock : 504
+Plainpipeblock : 505
+Engineblock : 506
+Fillerblock : 507
+Frameblock : 508
+Blockhopper : 509
+Laserblock : 510
+Markerblock : 511
+Miningwellblock : 512
+Pathmarkerblock : 513
+Buildcraft.Transport.Blockgenericpipe : 514
+Pumpblock : 515
+Machineblock : 516
+Refineryblock : 517
+Tankblock : 518
+Eternalspring : 519
+Omnitools.Block.Blockplinth : 580
+Blockalloy : 600
+Blockalloyglass : 601
+.Block.Blockbarrel : 602
+.Block.Wiring.Blockcable : 603
+Blockcrop : 604
+Blockdooralloy : 605
+Blockdynamite : 606
+Blockdynamiteremote : 607
+.Block.Wiring.Blockelectric : 608
+Blockfenceiron : 609
+Blockfoam : 610
+.Block.Generator.Block.Blockgenerator : 611
+Blockharz : 612
+Blockitnt : 613
+Blockironscaffold : 614
+Blockluminator : 615
+Blockluminatord : 616
+.Block.Machine.Blockmachine : 617
+.Block.Machine.Blockmachine2 : 618
+.Block.Blockmetal : 619
+Blockminingpipe : 620
+Blockminingtip : 621
+Blocknuke : 622
+.Block.Personal.Blockpersonal : 623
+Blockreactor Chamber : 624
+Leaves : 625
+Blockrubsapling : 626
+Blockrubwood : 627
+Blockrubber : 628
+Blockscaffold : 629
+Blockwall : 630
+Blockadvmachine : 645
+Advsolar.Blockadvsolarpanel : 650
+Blockthermalmonitor : 665
+Mffscapacitor : 680
+Mffsdefencestation : 681
+Mffsextractor : 682
+Chb.Mods.Mffs.Common.Block.Blockforcefield : 683
+Mffssecurtystorage : 684
+Mffsprojector : 685
+Mffssecurtystation : 686
+Mffsforceenergyconverter : 687
+Monazit Ore : 688
+Mffscontrolsystem : 690
+Blockmeta_Block : 700
+Gt_Lightsource : 701
+Blockmeta_Machine : 702
+Blockmeta_Ore : 703
+Blockmeta_Block2 : 704
+Com.Eloraam.Redpower.Base.Blockappliance : 750
+Rpwire : 751
+Com.Eloraam.Redpower.Core.Blockmultiblock : 752
+Com.Eloraam.Redpower.Compat.Blockmachinecompat : 753
+Com.Eloraam.Redpower.Core.Blockmultipart : 754
+Com.Eloraam.Redpower.Control.Blockperipheral : 755
+Com.Eloraam.Redpower.Core.Blockmultipart : 756
+Rplampoff : 757
+Rplampon : 758
+Rplampoff : 759
+Rplampon : 760
+Com.Eloraam.Redpower.Logic.Blocklogic : 761
+Rpframe : 762
+Rpmachine2 : 763
+Com.Eloraam.Redpower.Machine.Blockmachine : 764
+Com.Eloraam.Redpower.Machine.Blockmachinepanel : 765
+Com.Eloraam.Redpower.Lighting.Blockshapedlamp : 766
+Blockcargomanager : 901
+Blockcartassembler : 902
+Blockjunction : 903
+Blockadvdetector : 904
+Blockactivator : 905
+Blockdistributor : 906
+Blockdetector : 907
+Blockupgrade : 908
+Alveary : 925
+Candle : 926
+Engine : 927
+Alvearyfan : 928
+For.Fences : 929
+Firsapling : 930
+Harvester : 931
+Alvearyheater : 932
+Leaves : 933
+For.Log1 : 934
+For.Log2 : 935
+For.Log3 : 936
+For.Log4 : 937
+Machine : 938
+Mill : 939
+Farming.Gadgets.Blockmushroom : 940
+For.Planks : 941
+Planter : 942
+Cultivation.Gadgets.Blocksaplings : 943
+Saplingge : 944
+For.Slabs1 : 945
+For.Slabs2 : 946
+Soil : 947
+Stained : 948
+Stump : 949
+Swarmer : 950
+For.Stairs : 951
+Ffarm : 952
+Blockextrabeehive : 960
+Ectoplasm : 961
+Advgeneticmachine : 962
+Apiaristmachine : 963
+Geneticmachine : 964
+Binnie.Core.Machines.Blockmachine : 965
+Ironchest : 975
+Factorization.Common.Blockfactorization : 1000
+Lightair : 1001
+Rccube : 1050
+Cartdetector : 1051
+Elevatorrail : 1052
+Rcblockmachinealpha : 1053
+Rcblockmachinebeta : 1054
+Rcblockmachinegamma : 1055
+Rcpostblock : 1056
+Rcmetalpostblock : 1057
+Rc.Signal : 1058
+Railcrafttrack : 1059
+Rc.Wall : 1060
+Rc.Block.Worldlogic : 1061
+Portalmod : 1100
+Portalmultiblock : 1101
+Enderchest : 1200
+Cccomputer : 1225
+Ccdiskdrive : 1226
+Ccturtle : 1227
+Ccturtle : 1228
+Miscperipherals.Block.Blockmultitile : 1229
+Miscperipherals.Block.Blockmultitile : 1230
+Com.Eloraam.Redpower.Logic.Blocklogic : 1252
+.Stairs.Acacia : 1300
+.Autumnleaves : 1301
+.Cattail : 1302
+.Log : 1303
+.Redrockslab : 1304
+.Woodslab : 1305
+.Stairs.Fir : 1306
+.Flower : 1307
+.Tallgrass : 1308
+.Greenleaves : 1309
+.Leafpile : 1310
+.Planks : 1311
+.Log.Quarter : 1312
+.Log.Quarter : 1313
+.Log.Quarter : 1314
+.Log.Quarter : 1315
+.Quicksand : 1316
+.Stairs.Redcobble : 1317
+.Stairs.Redrockbrick : 1318
+.Redrockslab : 1319
+.Stairs.Redwood : 1320
+.Sapling : 1321
+.Wall : 1322
+.Woodslab : 1323
+World.Blocks.Aesthetic.Xychoriteblocks : 1375
+World.Blocks.Aesthetic.Sulfurtorch : 1376
+World.Blocks.Aesthetic.Cornstalk : 1377
+World.Blocks.Aesthetic.Henequenplant : 1378
+World.Blocks.Aesthetic.Aluminumtorch : 1379
+World.Blocks.Aesthetic.Xychorite2Blocks : 1380
+World.Blocks.Aesthetic.Structureblock : 1381
+World.Blocks.Aesthetic.Xylight : 1382
+World.Blocks.Aesthetic.Xylightinv : 1383
+World.Blocks.Aesthetic.Glassviewer : 1384
+Machines.Blocks.Plasmatorch : 1400
+Machines.Blocks.Multibrick : 1401
+Machines.Blocks.Ironplate : 1402
+Machines.Blocks.Multiinterface : 1403
+Machines.Blocks.Basicmachine : 1404
+Machines.Blocks.Multiair : 1405
+Machines.Blocks.Multihard : 1406
+Machines.Blocks.Multinormal : 1407
+Machines.Blocks.Multisoft : 1408
+Machines.Blocks.Multiglass : 1409
+Machines.Blocks.Mockblock : 1410
+Machines.Blocks.Fabricator : 1411
+Cage : 1475
+Soulforge : 1476
+Soultower : 1478
+Tfbossspawner : 1500
+Tfcicada : 1501
+Tffirefly : 1502
+Tffirejet : 1503
+Tffireflyjar : 1504
+Tfhedge : 1505
+Tfleaves : 1506
+Tflog : 1507
+Tfmazestone : 1508
+Tfmoonworm : 1509
+Tfmagicleaves : 1510
+Tfmagiclog : 1511
+Tfnagastone : 1512
+Tfplant : 1513
+Tfportal : 1514
+Tfroots : 1515
+Tfsapling : 1516
+Tfuncraftingtable : 1517
+Tftowerstone : 1519
+Tfmagiclogspecial : 1520
+Tftowerdevice : 1522
+Tftowertranslucent : 1523
+Tftrophy : 1524
+Pressureplate : 1555
+Blockpetroleumgenerator : 1560
+Blockarcanedoor : 1600
+Blockarcanefurnace : 1601
+Blockcandle : 1602
+Blockchesthungry : 1603
+Blockcrucible : 1604
+Blockcustomplant : 1605
+Blockfluxgoo : 1606
+Blockhole : 1607
+Blockinfusionworkbench : 1608
+Blockjar : 1609
+Blockmagicalleaves : 1610
+Blockmagicallog : 1611
+Blockmarker : 1612
+Blocksecure : 1613
+Blocktable : 1614
+Blockwooden : 1615
+Blockwoodendevice : 1616
+Blocklifter : 1617
+Blocknitor : 1618
+Blockcrystal : 1619
+Blockcosmeticopaque : 1620
+Blockcosmeticsol : 1621
+Blockmirror : 1622
+Tb.Planks : 1750
+Tb.Slab.Wood : 1751
+Tb.Slab.Wood : 1752
+Thermalexpansion.Core.Block.Blockore : 2001
+Thermalexpansion.Factory.Block.Blockmachine : 2002
+Thermalexpansion.Factory.Block.Blockrockwool : 2003
+Thermalexpansion.Factory.Block.Blockhardenedglass : 2004
+Thermalexpansion.Transport.Block.Blockconduit : 2005
+Thermalexpansion.Energy.Block.Blockenergycell : 2006
+Thermalexpansion.Energy.Block.Blockengine : 2007
+Thermalexpansion.Factory.Block.Blocktank : 2008
+Thermalexpansion.Transport.Block.Blockteleport : 2009
+ Record : 2256
+ Record : 2257
+ Record : 2258
+ Record : 2259
+ Record : 2260
+ Record : 2261
+ Record : 2262
+ Record : 2263
+ Record : 2264
+ Record : 2265
+ Record : 2266
+ Record : 2267
+Assemblytablei : 2500
+Assemblytableii : 2501
+Assemblytableiii : 2502
+Railcoupler : 2503
+Raildetfreight : 2504
+Raildetloco : 2505
+Raildetpassenger : 2506
+Distille : 2507
+Distilactive : 2508
+Trainworkbench : 2509
+ Woodengear  : 4056
+ Stonegear  : 4057
+ Irongear  : 4058
+ Goldgear  : 4059
+ Diamondgear  : 4060
+ Template  : 4061
+ Wrench  : 4062
+ Bucketoil : 4063
+ Fuel : 4064
+ Pipewaterproof : 4065
+ Bucketfuel : 4066
+ Pipegate : 4067
 4068
- redPipeWire. : 4069
- bluePipeWire. : 4070
- greenPipeWire. : 4071
- yellowPipeWire. : 4072
- redstoneChipset. : 4073
- blueprint : 4074
- ccdisk. : 4256
- ccdisk. : 4257
- ccprintout. : 4258
- PipeItemsWood. : 4306
- PipeItemsCobblestone. : 4307
- PipeItemsStone. : 4308
- PipeItemsIron. : 4309
- PipeItemsGold. : 4310
- PipeItemsDiamond. : 4311
- PipeItemsObsian. : 4312
- PipeLiqusWood. : 4313
- PipeLiqusCobblestone. : 4314
- PipeLiqusStone. : 4315
- PipeLiqusIron. : 4316
- PipeLiqusGold. : 4317
- PipePowerWood. : 4320
- PipePowerStone. : 4322
- PipePowerGold. : 4324
- PipeStructureCobblestone. : 4328
- PipeItemsEmerald. : 4329
- PipeLiqusEmerald. : 4330
- com.eloraam.redpower.core.ItemParts. : 5257
- rpBag. : 5258
- drawplateDiamond. : 5259
- com.eloraam.redpower.base.ItemDyeIndigo. : 5260
- handsawDiamond. : 5261
- handsawIron. : 5262
- com.eloraam.redpower.core.ItemParts. : 5263
- com.eloraam.redpower.core.ItemParts. : 5264
- planBlank. : 5265
- planFull. : 5266
- com.eloraam.redpower.core.ItemParts. : 5267
- screwdriver. : 5268
- com.eloraam.redpower.core.ItemParts. : 5269
- com.eloraam.redpower.control.ItemDisk. : 5270
- com.eloraam.redpower.core.ItemParts. : 5271
- btbattery. : 5272
- btbattery. : 5273
- com.eloraam.redpower.core.ItemParts. : 5274
- sonicDriver. : 5275
- windTurbineWood. : 5276
- voltmeter. : 5277
- windmillWood. : 5278
- athame. : 5279
- axeGreenSapphire. : 5280
- axeRuby. : 5281
- axeSapphire. : 5282
- handsawGreenSapphire. : 5283
- handsawRuby. : 5284
- handsawSapphire. : 5285
- hoeGreenSapphire. : 5286
- hoeRuby. : 5287
- hoeSapphire. : 5288
- paintbrush.black. : 5289
- paintbrush.blue. : 5290
- paintbrush.brown. : 5291
- paintbrush.cyan. : 5292
- paintbrush.dry. : 5293
- paintbrush.gray. : 5294
- paintbrush.green. : 5295
- paintbrush.lightBlue. : 5296
- paintbrush.lime. : 5297
- paintbrush.magenta. : 5298
- paintbrush.orange. : 5299
- paintbrush.pink. : 5300
- paintbrush.purple. : 5301
- paintbrush.red. : 5302
- paintbrush.silver. : 5303
- paintbrush.white. : 5304
- paintbrush.yellow. : 5305
- paintcan.black. : 5306
- paintcan.blue. : 5307
- paintcan.brown. : 5308
- paintcan.cyan. : 5309
- paintcan.empty. : 5310
- paintcan.gray. : 5311
- paintcan.green. : 5312
- paintcan.lightBlue. : 5313
- paintcan.lime. : 5314
- paintcan.magenta. : 5315
- paintcan.orange. : 5316
- paintcan.pink. : 5317
- paintcan.purple. : 5318
- paintcan.red. : 5319
- paintcan.silver. : 5320
- paintcan.white. : 5321
- paintcan.yellow. : 5322
- pickaxeGreenSapphire. : 5323
- pickaxeRuby. : 5324
- pickaxeSapphire. : 5325
- rpSeedBag. : 5326
- com.eloraam.redpower.world.ItemCustomSeeds. : 5327
- shovelGreenSapphire. : 5328
- shovelRuby. : 5329
- shovelSapphire. : 5330
- sickleDiamond. : 5331
- sickleGold. : 5332
- sickleGreenSapphire. : 5333
- sickleIron. : 5334
- sickleRuby. : 5335
- sickleSapphire. : 5336
- sickleStone. : 5337
- sickleWood. : 5338
- swordGreenSapphire. : 5339
- swordRuby. : 5340
- swordSapphire. : 5341
- woolcard. : 5342
- omniwrench. : 6257
- artifact. : 6258
- codechicken.wirelessredstone.addons.ItemWirelessTriangulator. : 6357
- codechicken.wirelessredstone.addons.ItemWirelessRemote. : 6358
- sniffer. : 6359
- wirelessmap. : 6360
- tracker. : 6361
- rep. : 6362
- psniffer. : 6363
- obsianStick. : 6406
- stoneBowl. : 6407
- retherPearl. : 6408
- wirelessTransceiver. : 6409
- blazeTransceiver. : 6410
- recieverDish. : 6411
- blazeRecieverDish. : 6412
- enderpouch. : 7493
- rc.dust. : 7756
- rc.fuel.coke. : 7757
- lapotronUpgrade. : 7758
- rc.cart.anchor. : 7759
- cart.batbox. : 7760
- tunnelBore. : 7761
- cart.mfe. : 7762
- cart.mfsu. : 7763
- rc.cart.pumpkin. : 7764
- rc.cart.tank. : 7765
- rc.cart.tnt. : 7766
- rc.cart.track.relayer. : 7767
- rc.cart.undercutter. : 7768
- rc.cart.work. : 7769
- rc.liqu.creosote.bottle. : 7770
- rc.liqu.creosote.bucket. : 7771
- rc.liqu.creosote.can. : 7772
- rc.liqu.creosote.liqu. : 7773
- rc.liqu.creosote.refactory. : 7774
- rc.liqu.creosote.wax. : 7775
- rc.liqu.steam. : 7776
- rc.part.circuit. : 7777
- Unused : 7778
- rc.part.gear. : 7779
- rc.part.ingot.steel. : 7780
- rc.parrt.plate. : 7781
- rc.part.rail. : 7782
- rc.part.railbed. : 7783
- rc.part.rebar. : 7784
- rc.part.signal.lamp. : 7785
- rc.part.tie. : 7786
- rc.part.turbine.blade. : 7787
- rc.part.turbine.disk. : 7788
- rc.part.turbine.rotor. : 7789
- boreHeadDiamond. : 7790
- boreHeadIron. : 7791
- boreHeadSteel. : 7792
- rc.tool.crowbar. : 7793
- rcMagGlass. : 7794
- rc.tool.signal.tuner. : 7795
- rc.tool.steel.axe. : 7796
- rc.tool.steel.hoe. : 7797
- rc.tool.steel.pickaxe. : 7798
- rc.tool.steel.shovel. : 7799
- rc.tool.steel.sword. : 7800
- rc.tool.surveyor. : 7801
- rc.armor.steel.boots. : 7802
- rc.armor.steel.helmet. : 7803
- rc.armor.steel.legs. : 7804
- rc.armor.steel.plate. : 7805
- rc.cart.loco.steam. : 7806
- rc.cart.gift. : 7807
- rc.armor.goggles. : 7808
- rc.cart.anchor.personal. : 7809
- rc.armor.overalls. : 7810
- forestry.storage.items.ItemBackpack. : 7811
- forestry.storage.items.ItemBackpack. : 7812
- rc.nugget. : 7813
- forestry.storage.items.ItemBackpack. : 7814
- forestry.storage.items.ItemBackpack. : 7815
- rc.liqu.creosote.cell. : 7816
- rc.tool.whistle.tuner. : 7817
- soulShard. : 8331
- blankSoulShard. : 8332
- vileDust. : 8333
- corruptedEssence. : 8334
- corruptedFragment. : 8335
- corruptedIngot. : 8336
- corruptedSword. : 8337
- binnie.extrabees.liqus.ItemLiqu. : 8756
- binnie.extrabees.liqus.ItemLiquContainer. : 8766
- binnie.extrabees.products.ItemHoneyComb. : 8776
- binnie.extrabees.products.ItemPropolis. : 8781
- binnie.extrabees.products.ItemHoneyDrop. : 8786
- binnie.extrabees.products.ItemHoneyCrystal. : 8791
- binnie.extrabees.products.ItemHoneyCrystalEmpty. : 8792
- binnie.extrabees.genetics.ItemDictionary. : 8793
- binnie.extrabees.genetics.ItemTemplate. : 8797
- binnie.extrabees.genetics.ItemTemplateBlank. : 8798
- binnie.extrabees.liqus.ItemLiquDNA. : 8799
- binnie.extrabees.genetics.ItemAdvancedTemplate. : 8801
- binnie.extrabees.genetics.ItemAdvancedTemplateBlank. : 8802
- binnie.extrabees.genetics.ItemSerum. : 8803
- binnie.extrabees.genetics.ItemSerumEmpty. : 8804
- binnie.extrabees.genetics.ItemGenome. : 8805
- binnie.extrabees.genetics.ItemGenomeEmpty. : 8806
- Chocolate Frame. : 8816
- Restraint Frame. : 8817
- Soul Frame. : 8818
- Healing Frame. : 8819
- Nova Frame. : 8820
- binnie.extrabees.liqus.ItemMoltenMetal. : 8826
- binnie.extrabees.liqus.ItemCast. : 8827
- binnie.extrabees.electronics.ItemElectronic. : 8836
- Craftpacket. : 9256
- Bag of Holding. : 9257
- Pocket Crafting Table. : 9258
- wandofcooling. : 9261
- diamondshard. : 9262
- wrathigniter. : 9263
- darkiron. : 9264
- exochasis. : 9265
- exoArmor0. : 9266
- exoArmor1. : 9267
- exoArmor2. : 9268
- exoArmor3. : 9269
- Lead Ingot. : 9270
- Silver Ingot. : 9271
- Item Filter. : 9272
- Machine Filter. : 9273
- Speed Boost. : 9274
- Thoroughness. : 9275
- Bandwth. : 9276
- exo.buoyantbarrel. : 9277
- exo.cobbledrive. : 9278
- exo.mountedpiston. : 9279
- Sulfuric Ac. : 9280
- Magnet. : 9281
- Insulated Coil. : 9282
- Motor. : 9283
- Fan. : 9284
- factorization.chargemeter. : 9285
- mirror. : 9286
- Ejector. : 9287
- Extra-Dimensional Storage. : 9288
- factorization_battery. : 9289
- itemOreProcessingdirtyGravel. : 9290
- itemOreProcessingcleanGravel. : 9291
- itemOreProcessingreduced. : 9292
- itemOreProcessingcrystal. : 9293
- Diamond Cutting Head. : 9294
- sludge. : 9295
- inverium. : 9296
- sculptTool. : 9297
- angularSaw. : 9298
- Logic Matrix Programmer. : 9299
- Logic Matrix. : 9300
- Logic Matrix: entifier. : 9301
- Heat Hole. : 9302
- exo.wallJump. : 9303
- itemWrench. : 11363
- itemSwitch. : 11364
- itemForceFieldsync. : 11365
- ItemMFDwriter. : 11366
- itemMFDdebugger. : 11367
- itemManuelBook. : 11368
- itemProjectorModulediagonallyWall. : 11369
- itemAccessCard. : 11370
- itemcardempty. : 11371
- itemfc. : 11372
- itemextractorbooster. : 11374
- itemupgradecaprange. : 11375
- itemupgradecapcap. : 11376
- itemProjectorTypsphere. : 11377
- itemProjectorTypkube. : 11378
- itemProjectorTypwall. : 11380
- itemProjectorTypdeflector. : 11381
- itemProjectorTyptube. : 11382
- itemupgradeprozapper. : 11383
- itemupgradeprosubwater. : 11384
- itemupgradeprodome. : 11385
- itemUpgradeprocutter. : 11386
- itemProjectorFFDistance. : 11387
- itemProjectorFFStrength. : 11388
- itemPorjectorFocusmatrix. : 11389
- itemCard. : 11390
- itemSecLinkCard. : 11391
- itemProjectorOptiondefencestation. : 11393
- itemProjectorOptionMoobEx. : 11394
- itemProjectorOptionFFJammer. : 11395
- itemProjectorModuleContainment. : 11396
- itemProjectorOptionCamoflage. : 11397
- itemProjectorModuleAdvCube. : 11398
- itemProjectorOptionFieldFusion. : 11399
- itemForcicium. : 11400
- itemForcePowerCrystal. : 11401
- itemForcicumCell. : 11402
- itemInfPowerCard. : 11403
- itemCardDataLink. : 11404
- bituminousSludge. : 12111
- bituminousSludgeBucket. : 12112
- liquMilk. : 12390
- .logturner. : 13126
- .scarecrow. : 13127
- .paste. : 13128
- forestry.storage.items.ItemBackpack. : 13256
- forestry.storage.items.ItemBackpack. : 13257
- ambrosia. : 13258
- apatite. : 13259
- apiaristBag. : 13260
- apiaristBoots. : 13261
- apiaristChest. : 13262
- apiaristHelmet. : 13263
- apiaristLegs. : 13264
- appleJuice. : 13265
- ash. : 13266
- beeCombs. : 13267
- beeDroneGE. : 13268
- beePrincessGE. : 13269
- beeQueenGE. : 13270
- beealyzer. : 13271
- beeswax. : 13272
- bioFuel. : 13273
- bioMass. : 13274
- biofuelCan. : 13275
- biomassCan. : 13276
- biomeFinder. : 13277
- bituminousPeat. : 13278
- brokenBronzePickaxe. : 13279
- brokenBronzeShovel. : 13280
- bronzePickaxe. : 13281
- bronzeShovel. : 13282
- bucketBiofuel. : 13283
- bucketBiomass. : 13284
- forestry.storage.items.ItemBackpack. : 13285
- forestry.storage.items.ItemBackpack. : 13286
- canEmpty. : 13287
- canFuel. : 13288
- canHoney. : 13289
- canIce. : 13290
- canJuice. : 13291
- canLava. : 13292
- canOil. : 13293
- canSeedOil. : 13294
- carton. : 13295
- chipsets. : 13296
- craftingMaterial. : 13297
- crate. : 13298
- cratedApatite. : 13299
- cratedApples. : 13300
- cratedAsh. : 13301
- cratedBogearth. : 13303
- cratedBrass. : 13304
- cratedBrick. : 13305
- cratedBronze. : 13306
- cratedCacti. : 13307
- cratedCharcoal. : 13308
- cratedClay. : 13309
- cratedCoal. : 13310
- cratedCobblestone. : 13311
- cratedCookies. : 13313
- cratedCopper. : 13314
- cratedDirt. : 13315
- cratedFertilizer. : 13317
- cratedGlowstone. : 13319
- cratedGravel. : 13320
- cratedHumus. : 13323
- cratedLapis. : 13324
- cratedMulch. : 13325
- cratedMycelium. : 13326
- cratedNetherbrick. : 13327
- cratedNetherrack. : 13328
- cratedNetherwart. : 13329
- cratedNikolite. : 13330
- cratedObsian. : 13331
- cratedPeat. : 13332
- cratedPhosphor. : 13333
- cratedRedstone. : 13336
- cratedReeds. : 13337
- cratedResin. : 13339
- cratedRubber. : 13341
- cratedSand. : 13342
- cratedSandstone. : 13343
- cratedSaplings. : 13344
- cratedScrap. : 13345
- cratedSeeds. : 13346
-I. Name: cratedSilver. : 13347
- cratedSoulsand. : 13349
- cratedStone. : 13350
- cratedTin. : 13352
- cratedUUM. : 13353
- cratedWheat. : 13354
- cratedWood. : 13355
- decayingWheat. : 13356
- forestry.storage.items.ItemBackpack. : 13357
- forestry.storage.items.ItemBackpack. : 13358
- fertilizerBio. : 13359
- fertilizerCompound. : 13360
- forestry.storage.items.ItemBackpack. : 13361
- forestry.storage.items.ItemBackpack. : 13362
- frameImpregnated. : 13363
- frameProven. : 13364
- frameUntreated. : 13365
- gearBronze. : 13366
- gearCopper. : 13367
- gearTin. : 13368
- hardenedMachine. : 13369
- honeyDrop. : 13370
- honeyPot. : 13371
- honeydew. : 13372
- honeyedSlice. : 13373
- forestry.storage.items.ItemBackpack. : 13374
- forestry.storage.items.ItemBackpack. : 13375
- impregnatedCasing. : 13376
- imprinter. : 13377
- infuser. : 13378
- ingotBronze. : 13379
- ingotCopper. : 13380
- ingotTin. : 13381
- iodineCapsule. : 13382
- kitPickaxe. : 13383
- kitShovel. : 13384
- letters. : 13385
- liquGlass. : 13386
- liquHoney. : 13387
- liquIce. : 13388
- liquMead. : 13389
- treealyzer. : 13390
- liquSeedOil. : 13391
- forestry.storage.items.ItemBackpack. : 13392
- forestry.storage.items.ItemBackpack. : 13393
- mouldyWheat. : 13394
- mulch. : 13395
- oakStick. : 13396
- peat. : 13397
- phosphor. : 13398
- pipette. : 13399
- pollen. : 13400
- propolis. : 13401
- refractoryBiofuel. : 13402
- refractoryBiomass. : 13403
- refractoryEmpty. : 13404
- refractoryFuel. : 13405
- refractoryHoney. : 13406
- refractoryIce. : 13407
- refractoryJuice. : 13408
- refractoryLava. : 13409
- refractoryOil. : 13410
- refractorySeedOil. : 13411
- refractoryWater. : 13412
- refractoryWax. : 13413
- royalJelly. : 13414
- forestry.arboriculture.items.ItemGermlingGE. : 13415
- scoop. : 13416
- shortMead. : 13417
- solderingIron. : 13418
- stamps. : 13419
- sturdyMachine. : 13420
- thermionicTubes. : 13421
- vialCatalyst. : 13422
- waterCan. : 13423
- waxCapsule. : 13424
- waxCapsuleBiofuel. : 13425
- waxCapsuleBiomass. : 13426
- waxCapsuleFuel. : 13427
- waxCapsuleHoney. : 13428
- waxCapsuleIce. : 13429
- waxCapsuleJuice. : 13430
- waxCapsuleOil. : 13431
- waxCapsuleSeedOil. : 13432
- waxCapsuleWater. : 13433
- waxCast. : 13434
- woodPulp. : 13435
- wrench. : 13436
- grafter. : 13437
- PortalGunBlue. : 13457
- PortalGunOrange. : 13458
- PortalSpawner. : 13459
- PortalLFB. : 13460
- PortalLFBs. : 13461
- PortalMulti : 13462
- PortalTurret. : 13463
- PortalAPG. : 13464
- PortalAFP : 13465
- PortalDust. : 13466
- PortalPotato. : 13467
- PortalBlackHole. : 13468
- record. : 13657
- record. : 13658
- record. : 13659
- cratedHoneycombs. : 13783
- cratedBeeswax. : 13784
- cratedPollen. : 13785
- cratedPropolis. : 13786
- cratedHoneydew. : 13787
- cratedRoyalJelly. : 13788
- cratedCocoaComb. : 13789
- cratedSimmeringCombs. : 13801
- cratedStringyCombs. : 13802
- cratedFrozenCombs. : 13803
- cratedDrippingCombs. : 13804
- cratedRefractoryWax. : 13805
- fruits. : 13806
- PipeItemsPropolis. : 14256
- pipeGateAutarchic. : 19256
- pipeFacade. : 19257
- PipeItemsVo. : 19406
- PipeLiqusVo. : 19407
- PipeItemsSandstone. : 19408
- PipeLiqusSandstone. : 19409
- ironGoldUpgrade. : 19757
- goldDiamondUpgrade. : 19758
- copperSilverUpgrade. : 19759
- silverGoldUpgrade. : 19760
- copperIronUpgrade. : 19761
- diamondCrystalUpgrade. : 19762
- woodIronUpgrade. : 19763
- woodCopperUpgrade. : 19764
- diamondObsianUpgrade. : 19765
- material. : 20257
- tool. : 20258
- tool. : 20259
- Unused : 20260
- liqu. : 20261
- component. : 20262
- tool. : 20263
- GT_Materials. : 21256
- GT_Dusts. : 21257
- GT_Cells. : 21258
- GT_Components. : 21259
- GT_SmallDusts. : 21260
- GT_Nuggets. : 21261
- GT_Liqus. : 21269
- GT_Gasses. : 21270
- GT_Plasma. : 21271
- GregTech_Sensorcard. : 21272
- GregTech_Sensorkit. : 21273
- Ultimate_Cheat_Armor. : 21274
- Iron_Mortar. : 21286
- Flint_Mortar. : 21287
- Sonictron. : 21288
- Destructopack. : 21289
- 60k_Helium_Coolantcell. : 21290
- 180k_Helium_Coolantcell. : 21291
- 360k_Helium_Coolantcell. : 21292
- Lapotronic_Energyorb. : 21293
- Cloaking_Device. : 21294
- Iron_Jack_Hammer. : 21295
- Irium_Neutronreflector. : 21296
- Steel_Jack_Hammer. : 21297
- Diamond_Jack_Hammer. : 21298
- Dataorb. : 21299
- Lighthelmet. : 21300
- Lapotronpack. : 21301
- Rockcutter. : 21302
- Teslastaff. : 21303
- Thoriumcell. : 21304
- Double_Thoriumcell. : 21305
- Quad_Thoriumcell. : 21306
- Plutoniumcell. : 21307
- Double_Plutoniumcell. : 21308
- Quad_Plutoniumcell. : 21309
- Debug_Scanner. : 21311
- Lithium_Battery_Empty. : 21312
- Lithium_Battery. : 21313
- Lithium_Batpack. : 21314
- 60k_NaK_Coolantcell. : 21316
- 180k_NaK_Coolantcell. : 21317
- 360k_NaK_Coolantcell. : 21318
- blueXychorium. : 24256
- greenXychorium. : 24257
- redXychorium. : 24258
- darkXychorium. : 24259
- lightXychorium. : 24260
- blueXychorite. : 24261
- greenXychorite. : 24262
- redXychorite. : 24263
- darkXychorite. : 24264
- lightXychorite. : 24265
- aluminum. : 24266
- sulfur. : 24267
- sulfurGoo. : 24268
- corn. : 24269
- kernel. : 24270
- henequenSeeds. : 24271
- henequenLeaf. : 24272
- twine. : 24273
- popcorn. : 24274
- cornCob. : 24275
- aluminumFoil. : 24276
- liqu.xyliqu. : 24456
- machines.items.materialItems. : 24656
- WandCastingApprentice. : 25256
- WandCastingAdept. : 25257
- WandCastingMage. : 25258
- WandFire. : 25259
- WandLightning. : 25260
- ItemEssence. : 25261
- ItemWispEssence. : 25262
- ItemResource. : 25263
- ItemShard. : 25264
- ItemResearchNotes. : 25265
- ItemInkwell. : 25266
- ItemThaumonomicon. : 25267
- ItemPortableHole. : 25268
- ItemThaumometer. : 25269
- ItemFlyingCarpet. : 25270
- ItemGolemPlacer. : 25271
- ItemGoggles. : 25272
- ItemHelmetThaumium. : 25273
- ItemChestplateThaumium. : 25274
- ItemLeggingsThaumium. : 25275
- ItemBootsThaumium. : 25276
- ItemShovelThaumium. : 25277
- ItemPickThaumium. : 25278
- ItemAxeThaumium. : 25279
- ItemSwordThaumium. : 25280
- ItemHoeThaumium. : 25281
- ItemGolemCore. : 25282
- WandTrade. : 25283
- WandExcavation. : 25284
- ItemArcaneDoor. : 25285
- ItemNugget. : 25286
- BootsTraveller. : 25287
- ItemNuggetChicken. : 25288
- ItemNuggetBeef. : 25289
- ItemNuggetPork. : 25290
- BlockJarFilled : 25291
- ItemGolemDecoration. : 25292
- Hellrod. : 25293
- WandFrost. : 25294
- TripleMeatTreat. : 25295
- ItemSwordElemental. : 25296
- ItemShovelElemental. : 25297
- ItemPickaxeElemental. : 25298
- ItemAxeElemental. : 25299
- ItemHoeElemental. : 25300
- ItemChestplateRobe. : 25301
- ItemLeggingsRobe. : 25302
- ItemBootsRobe. : 25303
- ArcaneDoorKey. : 25304
- HandMirror. : 25305
- thaumicbees.ItemComb. : 26346
- thaumicbees.ItemWax. : 26347
- thaumicbees.ItemPropolis. : 26348
- thaumicbees.ItemDrop. : 26349
- thaumicbees.ItemMiscResources. : 26350
- forestry.storage.items.ItemBackpack. : 26351
- forestry.storage.items.ItemBackpack. : 26352
- thaumicbees.ItemCapsule. : 26353
- thaumicbees.ItemPollen. : 26354
- thaumicbees.ItemSolFlux. : 26355
- thaumicbees.ItemMagicHiveFrame. : 26356
- thaumicbees.ItemMagicHiveFrame. : 26357
- thaumicbees.ItemMagicHiveFrame. : 26358
- thaumicbees.ItemMagicHiveFrame. : 26359
- thaumicbees.ItemMagicHiveFrame. : 26360
- thaumicbees.ItemMagicHiveFrame. : 26361
- jellyBabies. : 26371
- thaumicbees.ItemCapsule. : 26372
- tb.thaumiumScoop. : 26373
- tb.thaumiumGrafter. : 26374
- miscperipherals.ItemMulti. : 26710
- forestry.storage.items.ItemBackpack. : 26711
- forestry.storage.items.ItemBackpack. : 26712
- charmOfKeeping1. : 27256
- charmOfKeeping2. : 27257
- charmOfKeeping3. : 27258
- charmOfLife1. : 27259
- charmOfLife2. : 27260
- crumbleHorn. : 27261
- emptyMagicMap. : 27262
- emptyMazeMap. : 27263
- emptyOreMap. : 27264
- tfFeather. : 27265
- fieryBlood. : 27266
- fieryBoots. : 27267
- fieryHelm. : 27268
- fieryIngot. : 27269
- fieryLegs. : 27270
- fieryPick. : 27271
- fieryPlate. : 27272
- fierySword. : 27273
- hydraChop. : 27274
- hydraTrophy. : 27275
- ironwoodAxe. : 27276
- ironwoodBoots. : 27277
- ironwoodHelm. : 27278
- ironwoodHoe. : 27279
- ironwoodIngot. : 27280
- ironwoodLegs. : 27281
- ironwoodPick. : 27282
- Unused : 27283
- ironwoodRaw. : 27284
- ironwoodShovel. : 27285
- ironwoodSword. : 27286
- legsNaga. : 27287
- liveRoot. : 27288
- magicMap. : 27289
- magicMapFocus. : 27290
- mazeMap. : 27291
- mazeMapFocus. : 27292
- mazeWafer. : 27293
- mazebreakerPick. : 27294
- meefRaw. : 27295
- meefSteak. : 27296
- meefStroganoff. : 27297
- minotaurAxe. : 27298
- moonwormQueen. : 27299
- nagaScale. : 27300
- oreMagnet. : 27301
- oreMap. : 27302
- oreMeter. : 27303
- peacockFan. : 27304
- plateNaga. : 27305
- scepterLifeDrain. : 27306
- scepterTwilight. : 27307
- scepterZombie. : 27308
- tfspawnegg. : 27309
- steeleafAxe. : 27310
- steeleafBoots. : 27311
- steeleafHelm. : 27312
- steeleafHoe. : 27313
- steeleafIngot. : 27314
- steeleafLegs. : 27315
- steeleafPick. : 27316
- steeleafPlate. : 27317
- steeleafShovel. : 27318
- steeleafSword. : 27319
- torchberries. : 27320
- transformPowder. : 27321
- venisonCooked. : 27322
- venisonRaw. : 27323
- ironwoodPlate. : 27976
- towerKey. : 28027
- borerEssence. : 28028
- carminite. : 28029
- diesel. : 29256
- stake. : 29257
- steeldust. : 29258
- coaldust. : 29259
- graphite. : 29260
- boiler. : 29261
- firebox. : 29262
- bogie. : 29263
- steelframe. : 29264
- steelcab. : 29265
- steelchimney. : 29266
- zeppelin. : 29267
- balloon. : 29268
- propeller. : 29269
- steamengine. : 29270
- dieselengine. : 29271
- piston. : 29272
- camshaft. : 29273
- cylinder. : 29274
- electmotor. : 29275
- woodenFrame. : 29276
- woodenBogie. : 29277
- woodenCab. : 29278
- ironChimney. : 29279
- ironFirebox. : 29280
- ironBoiler. : 29281
- ironFrame. : 29282
- ironBogie. : 29283
- ironCab. : 29284
- Unused : 29285
- Unused : 29286
- steel. : 29287
- refinedFuel. : 29288
- Unused : 29289
- minecartWork. : 29290
- minecartTender. : 29291
- minecartChest. : 29292
- minecartPower. : 29293
- minecartLoco3. : 29294
- minecartLoco4. : 29295
- minecartBuilder. : 29296
- minecartCaboose. : 29297
- minecartGrain. : 29298
- minecartWatertransp. : 29299
- minecartWood. : 29300
- minecartPassenger2. : 29301
- minecartTram. : 29302
- minecartSpeed. : 29303
- minecartEU07. : 29304
- minecartShunter. : 29305
- minecartVL10. : 29306
- minecartTramWood. : 29307
- minecartChmE3. : 29308
- minecartHeavySteam. : 29309
- minecartTenderHeavy. : 29310
- minecartFlatCart. : 29311
- minecartHighSpeedCar. : 29312
- minecartNewHighSpeedLoco. : 29313
- minecartFreightCart2. : 29314
- minecartOpenWagon. : 29315
- minecartTankWagon. : 29316
- minecartJukeBoxCart. : 29317
- minecartStockCar. : 29318
- minecartCabooseWork. : 29319
- minecartPassenger5. : 29320
- minecartTankWagon2. : 29321
- minecartPassengerBlue. : 29322
- minecartGP7Red. : 29323
- minecartGP40alaska. : 29324
- minecartFlatCartSU. : 29325
- minecartFlatCartUS. : 29326
- minecartBoxCartUS. : 29327
- minecartFreightHopperUS. : 29328
- minecartTankWagonUS. : 29329
- minecartFlatCartWoodUS. : 29330
- minecartFreightCartUS. : 29331
- minecartFreightCartSmall. : 29332
- minecartLocoCherepanov. : 29333
- minecartMineTrain. : 29334
- minecartLocoMineTrain. : 29335
- minecartSteamRedTender. : 29336
- minecartFreightWood2. : 29337
- minecartCaboose3. : 29338
- minecartPassenger7. : 29339
- minecartFreightClosed. : 29340
- minecartFreightOpen2. : 29341
- minecartLocomogulBlue. : 29342
- minecartLocoForneyRed. : 29343
- minecartLocoBR01_DB. : 29344
- minecartMailWagon_DB. : 29345
- minecartFreightWagon_DB. : 29346
- minecartPassenger8_1class_DB. : 29347
- minecartPassenger9_2class_DB. : 29348
- minecartLocoBR80_DB. : 29349
- minecartTenderBR01_DB. : 29350
- minecartFlatCartRail_DB. : 29351
- minecartFlatCart_DB. : 29352
- minecartFlatCartLogs_DB. : 29353
- minecartFreightGondola_DB. : 29354
- minecartTankWagon_DB. : 29355
- minecartLocoSD70. : 29356
- minecartLocoEr. : 29357
- minecartTenderEr. : 29358
- minecartLocoSD40. : 29359
- minecartFreightCenterBeam_Empty. : 29360
- minecartFreightCenterBeam_Wood_1. : 29361
- minecartFreightCenterBeam_Wood_2. : 29362
- minecartFreightTrailer. : 29363
- minecartFreightWellcar. : 29364
- minecartKof_DB. : 29365
- minecartV60_DB. : 29366
- vswe.stevescarts.Items.ItemCartModule. : 29997
- vswe.stevescarts.Items.ItemCartComponent. : 29998
- vswe.stevescarts.Items.ItemCarts. : 29999
- refinedIronDust. : 30031
- itemNightvisionGoggles. : 30078
- itemCellAir. : 30079
- itemArmorHazmatLeggings. : 30080
- itemArmorHazmatChestplate. : 30081
- itemArmorHazmatHelmet. : 30082
- reactorCondensatorLap. : 30083
- itemPartDCP. : 30084
- reactorCondensator. : 30085
- reactorReflectorThick. : 30086
- reactorReflector. : 30087
- reactorHeatpack. : 30088
- reactorVentDiamond. : 30089
- reactorVentSpread. : 30090
- reactorVentGold. : 30091
- reactorVentCore. : 30092
- reactorVent. : 30093
- reactorHeatSwitchDiamond. : 30094
- reactorHeatSwitchSpread. : 30095
- reactorHeatSwitchCore. : 30096
- reactorPlatingExplosive. : 30097
- reactorPlatingHeat. : 30098
- reactorCoolantSix. : 30099
- reactorCoolantTriple. : 30100
- reactorUraniumQuad. : 30101
- reactorUraniumDual. : 30102
- itemCoolant. : 30103
- ic2.core.tool.ItemDebug. : 30104
- itemWeedEx. : 30105
- itemGrinPowder. : 30106
- ic2.core.ItemBooze. : 30107
- itemBarrel. : 30108
- itemHops. : 30109
- ic2.core.ItemMugCoffee. : 30110
- itemMugEmpty. : 30111
- itemCoffeePowder. : 30112
- itemCoffeeBeans. : 30113
- itemTerraWart. : 30114
- itemStaticBoots. : 30115
- itemSolarHelmet. : 30116
- itemToolbox. : 30117
- itemTFBPMushroom. : 30118
- itemToolHoe. : 30119
- itemCellHydrant. : 30120
- itemFertilizer. : 30121
- itemCropnalyzer. : 30122
- Unused : 30123
- itemTreetapElectric. : 30124
- ic2.core.ItemUpgradeModule. : 30125
- itemCropSeed. : 30126
- itemArmorLappack. : 30127
- itemOreIrium. : 30128
- itemArmorCFPack. : 30129
- itemDustSilver. : 30130
- itemFoamSprayer. : 30131
- itemPartPellet. : 30132
- itemDustClay. : 30133
- itemFreq. : 30134
- itemPartIndustrialDiamond. : 30135
- itemPartCoalChunk. : 30136
- itemPartCoal : 30137
- itemPartCoalBall. : 30138
- itemScrapbox. : 30139
- itemToolWrenchElectric. : 30140
- itemTFBPFlatification. : 30141
- itemTFBPDesertification. : 30142
- itemTFBPChilling. : 30143
- itemTFBPIrrigation. : 30144
- itemTFBPCultivation. : 30145
- itemTFBP. : 30146
- itemPartIrium. : 30147
- itemNanoSaber. : 30148
- itemNanoSaber. : 30149
- itemPartCarbonPlate. : 30150
- itemPartCarbonMesh. : 30151
- itemPartCarbonFibre. : 30152
- itemToolCutter. : 30153
- itemToolPainter. : 30154
- itemToolPainter. : 30155
- itemToolPainter. : 30156
- itemToolPainter. : 30157
- itemToolPainter. : 30158
- itemToolPainter. : 30159
- itemToolPainter. : 30160
- itemToolPainter. : 30161
- itemToolPainter. : 30162
- itemToolPainter. : 30163
- itemToolPainter. : 30164
- itemToolPainter. : 30165
- itemToolPainter. : 30166
- itemToolPainter. : 30167
- itemToolPainter. : 30168
- itemToolPainter. : 30169
- itemToolPainter. : 30170
- itemArmorQuantumBoots. : 30171
- itemArmorQuantumLegs. : 30172
- itemArmorQuantumChestplate. : 30173
- itemArmorQuantumHelmet. : 30174
- itemArmorNanoBoots. : 30175
- itemArmorNanoLegs. : 30176
- itemArmorNanoChestplate. : 30177
- itemArmorNanoHelmet. : 30178
- itemArmorAlloyChestplate. : 30179
- itemArmorBatpack. : 30180
- itemCellWaterElectro. : 30181
- itemToolMeter. : 30182
- itemToolWrench. : 30183
- ic2.core.block.ItemCable. : 30184
- itemDoorAlloy. : 30185
- itemCoin. : 30186
- itemPartAlloy. : 30187
- itemMatter. : 30188
- itemScrap. : 30189
- itemPartCircuitAdv. : 30190
- itemPartCircuit. : 30191
- itemArmorBronzeBoots. : 30192
- itemArmorBronzeLegs. : 30193
- itemArmorBronzeChestplate. : 30194
- itemArmorBronzeHelmet. : 30195
- itemToolBronzeHoe. : 30196
- itemToolBronzeSpade. : 30197
- itemToolBronzeSword. : 30198
- itemToolBronzeAxe. : 30199
- itemToolBronzePickaxe. : 30200
- itemCellUranEmpty. : 30201
- itemCellUranEnriched. : 30202
- reactorIsotopeCell. : 30203
- reactorHeatSwitch. : 30204
- reactorPlating. : 30205
- reactorCoolantSimple. : 30206
- reactorUraniumSimple. : 30207
- itemToolMiningLaser. : 30208
- itemArmorJetpackElectric. : 30209
- itemArmorJetpack. : 30210
- itemArmorRubBoots. : 30211
- itemTreetap. : 30212
- itemRemote. : 30213
- itemDynamiteSticky. : 30214
- itemDynamite. : 30215
- itemRubber. : 30216
- itemHarz. : 30217
- itemCellWater. : 30218
- itemScannerAdv. : 30219
- itemScanner. : 30220
- itemTinCanFilled. : 30221
- itemTinCan. : 30222
- itemFuelPlantCmpr. : 30223
- itemFuelPlantBall. : 30224
- itemFuelCoalCmpr. : 30225
- itemFuelCoalDust. : 30226
- itemCellBioRef. : 30227
- itemCellCoalRef. : 30228
- itemCellBio. : 30229
- itemCellCoal. : 30230
- itemFuelCanEmpty. : 30231
- itemFuelCan. : 30232
- itemToolChainsaw. : 30233
- itemToolDDrill. : 30234
- itemToolDrill. : 30235
- itemCellLava. : 30236
- itemCellEmpty. : 30237
- itemBatSU. : 30238
- itemBatRE. : 30239
- itemBatLamaCrystal. : 30240
- itemBatCrystal. : 30241
- itemBatRE. : 30242
- itemOreUran. : 30243
- itemIngotUran. : 30244
- itemIngotAlloy. : 30245
- itemIngotBronze. : 30246
- itemIngotTin. : 30247
- itemIngotCopper. : 30248
- itemIngotAdvIron. : 30249
- itemDustIronSmall. : 30250
- itemDustBronze. : 30251
- itemDustTin. : 30252
- itemDustCopper. : 30253
- itemDustGold. : 30254
- itemDustIron. : 30255
- itemDustCoal. : 30256
- ingotIrium. : 30356
- ItemCounterSensorKit. : 30376
- shedar.mods.ic2.nuclearcontrol.items.ItemCardMultipleSensorLocation. : 30377
- ItemEnergyArrayLocationCard. : 30378
- ItemEnergySensorKit. : 30379
- ItemEnergySensorLocationCard. : 30380
-shedar.mods.ic2.nuclearcontrol.items.ItemUpgrade. : 30381
-ItemRemoteSensorKit. : 30382
-ItemSensorLocationCard. : 30383
-ItemTextCard. : 30384
-ItemTimeCard. : 30385
-ItemToolDigitalThermometer. : 30386
-ItemToolThermometer. : 30387
-GraviChestPlate. : 30473
-UltimateLappack. : 30474
-ItemSimpleItems. : 30475
-Ultimate Solar Helmet : 30476
-Vajra : 30477
-Advanced Diamond Drill : 30478
-Advanced Chainsaw : 30479
-Advanced Lappack : 30480
-Advanced Electric Jetpack : 30481
-GraviTool : 30482
+ Redpipewire : 4069
+ Bluepipewire : 4070
+ Greenpipewire : 4071
+ Yellowpipewire : 4072
+ Redstonechipset : 4073
+ Blueprint  : 4074
+ Ccdisk : 4256
+ Ccdisk : 4257
+ Ccprintout : 4258
+ Pipeitemswood : 4306
+ Pipeitemscobblestone : 4307
+ Pipeitemsstone : 4308
+ Pipeitemsiron : 4309
+ Pipeitemsgold : 4310
+ Pipeitemsdiamond : 4311
+ Pipeitemsobsian : 4312
+ Pipeliquswood : 4313
+ Pipeliquscobblestone : 4314
+ Pipeliqusstone : 4315
+ Pipeliqusiron : 4316
+ Pipeliqusgold : 4317
+ Pipepowerwood : 4320
+ Pipepowerstone : 4322
+ Pipepowergold : 4324
+ Pipestructurecobblestone : 4328
+ Pipeitemsemerald : 4329
+ Pipeliqusemerald : 4330
+ Com.Eloraam.Redpower.Core. : 5257
+ Rpbag : 5258
+ Drawplatediamond : 5259
+ Com.Eloraam.Redpower.Base.Itemdyeindigo : 5260
+ Handsawdiamond : 5261
+ Handsawiron : 5262
+ Com.Eloraam.Redpower.Core. : 5263
+ Com.Eloraam.Redpower.Core. : 5264
+ Planblank : 5265
+ Planfull : 5266
+ Com.Eloraam.Redpower.Core. : 5267
+ Screwdriver : 5268
+ Com.Eloraam.Redpower.Core. : 5269
+ Com.Eloraam.Redpower.Control.Itemdisk : 5270
+ Com.Eloraam.Redpower.Core. : 5271
+ Btbattery : 5272
+ Btbattery : 5273
+ Com.Eloraam.Redpower.Core. : 5274
+ Sonicdriver : 5275
+ Windturbinewood : 5276
+ Voltmeter : 5277
+ Windmillwood : 5278
+ Athame : 5279
+ Axegreensapphire : 5280
+ Axeruby : 5281
+ Axesapphire : 5282
+ Handsawgreensapphire : 5283
+ Handsawruby : 5284
+ Handsawsapphire : 5285
+ Hoegreensapphire : 5286
+ Hoeruby : 5287
+ Hoesapphire : 5288
+ Paintbrush Black : 5289
+ Paintbrush Blue : 5290
+ Paintbrush Brown : 5291
+ Paintbrush Cyan : 5292
+ Paintbrush Dry : 5293
+ Paintbrush Gray : 5294
+ Paintbrush Green : 5295
+ Paintbrush Lightblue : 5296
+ Paintbrush Lime : 5297
+ Paintbrush Magenta : 5298
+ Paintbrush Orange : 5299
+ Paintbrush Pink : 5300
+ Paintbrush Purple : 5301
+ Paintbrush Red : 5302
+ Paintbrush Silver : 5303
+ Paintbrush White : 5304
+ Paintbrush Yellow : 5305
+ Paintcan Black : 5306
+ Paintcan Blue : 5307
+ Paintcan Brown : 5308
+ Paintcan Cyan : 5309
+ Paintcan Empty : 5310
+ Paintcan Gray : 5311
+ Paintcan Green : 5312
+ Paintcan Lightblue : 5313
+ Paintcan Lime : 5314
+ Paintcan Magenta : 5315
+ Paintcan Orange : 5316
+ Paintcan Pink : 5317
+ Paintcan Purple : 5318
+ Paintcan Red : 5319
+ Paintcan Silver : 5320
+ Paintcan White : 5321
+ Paintcan Yellow : 5322
+ Pickaxegreensapphire : 5323
+ Pickaxeruby : 5324
+ Pickaxesapphire : 5325
+ Rpseedbag : 5326
+ Com.Eloraam.Redpower.World.Itemcustomseeds : 5327
+ Shovelgreensapphire : 5328
+ Shovelruby : 5329
+ Shovelsapphire : 5330
+ Sicklediamond : 5331
+ Sicklegold : 5332
+ Sicklegreensapphire : 5333
+ Sickleiron : 5334
+ Sickleruby : 5335
+ Sicklesapphire : 5336
+ Sicklestone : 5337
+ Sicklewood : 5338
+ Swordgreensapphire : 5339
+ Swordruby : 5340
+ Swordsapphire : 5341
+ Woolcard : 5342
+ Omniwrench : 6257
+ Artifact : 6258
+ Codechicken.Wirelessredstone.Addons.Itemwirelesstriangulator : 6357
+ Codechicken.Wirelessredstone.Addons.Itemwirelessremote : 6358
+ Sniffer : 6359
+ Wirelessmap : 6360
+ Tracker : 6361
+ Rep : 6362
+ Psniffer : 6363
+ Obsianstick : 6406
+ Stonebowl : 6407
+ Retherpearl : 6408
+ Wirelesstransceiver : 6409
+ Blazetransceiver : 6410
+ Recieverdish : 6411
+ Blazerecieverdish : 6412
+ Enderpouch : 7493
+ Rc.Dust : 7756
+ Rc.Fuel.Coke : 7757
+ Lapotronupgrade : 7758
+ Rc.Cart.Anchor : 7759
+ Cart.Batbox : 7760
+ Tunnelbore : 7761
+ Cart.Mfe : 7762
+ Cart.Mfsu : 7763
+ Rc.Cart.Pumpkin : 7764
+ Rc.Cart.Tank : 7765
+ Rc.Cart.Tnt : 7766
+ Rc.Cart.Track.Relayer : 7767
+ Rc.Cart.Undercutter : 7768
+ Rc.Cart.Work : 7769
+ Rc.Liqu.Creosote.Bottle : 7770
+ Rc.Liqu.Creosote.Bucket : 7771
+ Rc.Liqu.Creosote.Can : 7772
+ Rc.Liqu.Creosote.Liqu : 7773
+ Rc.Liqu.Creosote.Refactory : 7774
+ Rc.Liqu.Creosote.Wax : 7775
+ Rc.Liqu.Steam : 7776
+ Rc.Part.Circuit : 7777
+ Unused  : 7778
+ Rc.Part.Gear : 7779
+ Rc.Part.Ingot.Steel : 7780
+ Rc.Parrt.Plate : 7781
+ Rc.Part.Rail : 7782
+ Rc.Part.Railbed : 7783
+ Rc.Part.Rebar : 7784
+ Rc.Part.Signal.Lamp : 7785
+ Rc.Part.Tie : 7786
+ Rc.Part.Turbine.Blade : 7787
+ Rc.Part.Turbine.Disk : 7788
+ Rc.Part.Turbine.Rotor : 7789
+ Boreheaddiamond : 7790
+ Boreheadiron : 7791
+ Boreheadsteel : 7792
+ Rc.Tool.Crowbar : 7793
+ Rcmagglass : 7794
+ Rc.Tool.Signal.Tuner : 7795
+ Rc.Tool.Steel.Axe : 7796
+ Rc.Tool.Steel.Hoe : 7797
+ Rc.Tool.Steel.Pickaxe : 7798
+ Rc.Tool.Steel.Shovel : 7799
+ Rc.Tool.Steel.Sword : 7800
+ Rc.Tool.Surveyor : 7801
+ Rc.Armor.Steel.Boots : 7802
+ Rc.Armor.Steel.Helmet : 7803
+ Rc.Armor.Steel.Legs : 7804
+ Rc.Armor.Steel.Plate : 7805
+ Rc.Cart.Loco.Steam : 7806
+ Rc.Cart.Gift : 7807
+ Rc.Armor.Goggles : 7808
+ Rc.Cart.Anchor.Personal : 7809
+ Rc.Armor.Overalls : 7810
+ Storage.Items.Itembackpack : 7811
+ Storage.Items.Itembackpack : 7812
+ Rc.Nugget : 7813
+ Storage.Items.Itembackpack : 7814
+ Storage.Items.Itembackpack : 7815
+ Rc.Liqu.Creosote.Cell : 7816
+ Rc.Tool.Whistle.Tuner : 7817
+ Soulshard : 8331
+ Blanksoulshard : 8332
+ Viledust : 8333
+ Corruptedessence : 8334
+ Corruptedfragment : 8335
+ Corruptedingot : 8336
+ Corruptedsword : 8337
+ .Itemliqu : 8756
+ .Itemliqucontainer : 8766
+ Itemhoneycomb : 8776
+ Itempropolis : 8781
+ Itemhoneydrop : 8786
+ Itemhoneycrystal : 8791
+ Itemhoneycrystalempty : 8792
+ Itemdictionary : 8793
+ Itemtemplate : 8797
+ Itemtemplateblank : 8798
+ .Itemliqudna : 8799
+ Itemadvancedtemplate : 8801
+ Itemadvancedtemplateblank : 8802
+ Itemserum : 8803
+ Itemserumempty : 8804
+ Itemgenome : 8805
+ Itemgenomeempty : 8806
+ Chocolate Frame : 8816
+ Restraint Frame : 8817
+ Soul Frame : 8818
+ Healing Frame : 8819
+ Nova Frame : 8820
+ Itemmoltenmetal : 8826
+ Itemcast : 8827
+ Itemelectronic : 8836
+ Craftpacket : 9256
+ Bag Of Holding : 9257
+ Pocket Crafting Table : 9258
+ Wandofcooling : 9261
+ Diamondshard : 9262
+ Wrathigniter : 9263
+ Darkiron : 9264
+ Exochasis : 9265
+ Exoarmor0 : 9266
+ Exoarmor1 : 9267
+ Exoarmor2 : 9268
+ Exoarmor3 : 9269
+ Lead Ingot : 9270
+ Silver Ingot : 9271
+ Item Filter : 9272
+ Machine Filter : 9273
+ Speed Boost : 9274
+ Thoroughness : 9275
+ Bandwth : 9276
+ Exo.Buoyantbarrel : 9277
+ Exo.Cobbledrive : 9278
+ Exo.Mountedpiston : 9279
+ Sulfuric Ac : 9280
+ Magnet : 9281
+ Insulated Coil : 9282
+ Motor : 9283
+ Fan : 9284
+ Factorization.Chargemeter : 9285
+ Mirror : 9286
+ Ejector : 9287
+ Extra-Dimensional Storage : 9288
+ Factorization_Battery : 9289
+ Itemoreprocessingdirtygravel : 9290
+ Itemoreprocessingcleangravel : 9291
+ Itemoreprocessingreduced : 9292
+ Itemoreprocessingcrystal : 9293
+ Diamond Cutting Head : 9294
+ Sludge : 9295
+ Inverium : 9296
+ Sculpttool : 9297
+ Angularsaw : 9298
+ Logic Matrix Programmer : 9299
+ Logic Matrix : 9300
+ Logic Matrix : Entifier : 9301
+ Heat Hole : 9302
+ Exo.Walljump : 9303
+ Itemwrench : 11363
+ Itemswitch : 11364
+ Itemforcefieldsync : 11365
+ Itemmfdwriter : 11366
+ Itemmfddebugger : 11367
+ Itemmanuelbook : 11368
+ Itemprojectormodulediagonallywall : 11369
+ Itemaccesscard : 11370
+ Itemcardempty : 11371
+ Itemfc : 11372
+ Itemextractorbooster : 11374
+ Itemupgradecaprange : 11375
+ Itemupgradecapcap : 11376
+ Itemprojectortypsphere : 11377
+ Itemprojectortypkube : 11378
+ Itemprojectortypwall : 11380
+ Itemprojectortypdeflector : 11381
+ Itemprojectortyptube : 11382
+ Itemupgradeprozapper : 11383
+ Itemupgradeprosubwater : 11384
+ Itemupgradeprodome : 11385
+ Itemupgradeprocutter : 11386
+ Itemprojectorffdistance : 11387
+ Itemprojectorffstrength : 11388
+ Itemporjectorfocusmatrix : 11389
+ Itemcard : 11390
+ Itemseclinkcard : 11391
+ Itemprojectoroptiondefencestation : 11393
+ Itemprojectoroptionmoobex : 11394
+ Itemprojectoroptionffjammer : 11395
+ Itemprojectormodulecontainment : 11396
+ Itemprojectoroptioncamoflage : 11397
+ Itemprojectormoduleadvcube : 11398
+ Itemprojectoroptionfieldfusion : 11399
+ Itemforcicium : 11400
+ Itemforcepowercrystal : 11401
+ Itemforcicumcell : 11402
+ Iteminfpowercard : 11403
+ Itemcarddatalink : 11404
+ Bituminoussludge : 12111
+ Bituminoussludgebucket : 12112
+ Liqumilk : 12390
+Logturner : 13126
+Scarecrow : 13127
+Paste : 13128
+ Storage.Items.Itembackpack : 13256
+ Storage.Items.Itembackpack : 13257
+ Ambrosia : 13258
+ Apatite : 13259
+ Apiaristbag : 13260
+ Apiaristboots : 13261
+ Apiaristchest : 13262
+ Apiaristhelmet : 13263
+ Apiaristlegs : 13264
+ Applejuice : 13265
+ Ash : 13266
+ Beecombs : 13267
+ Beedronege : 13268
+ Beeprincessge : 13269
+ Beequeenge : 13270
+ Beealyzer : 13271
+ Beeswax : 13272
+ Biofuel : 13273
+ Biomass : 13274
+ Biofuelcan : 13275
+ Biomasscan : 13276
+ Biomefinder : 13277
+ Bituminouspeat : 13278
+ Brokenbronzepickaxe : 13279
+ Brokenbronzeshovel : 13280
+ Bronzepickaxe : 13281
+ Bronzeshovel : 13282
+ Bucketbiofuel : 13283
+ Bucketbiomass : 13284
+ Storage.Items.Itembackpack : 13285
+ Storage.Items.Itembackpack : 13286
+ Canempty : 13287
+ Canfuel : 13288
+ Canhoney : 13289
+ Canice : 13290
+ Canjuice : 13291
+ Canlava : 13292
+ Canoil : 13293
+ Canseedoil : 13294
+ Carton : 13295
+ Chipsets : 13296
+ Craftingmaterial : 13297
+ Crate : 13298
+ Crated Apatite : 13299
+ Crated Apples : 13300
+ Crated Ash : 13301
+ Crated Bogearth : 13303
+ Crated Brass : 13304
+ Crated Brick : 13305
+ Crated Bronze : 13306
+ Crated Cacti : 13307
+ Crated Charcoal : 13308
+ Crated Clay : 13309
+ Crated Coal : 13310
+ Crated Cobblestone : 13311
+ Crated Cookies : 13313
+ Crated Copper : 13314
+ Crated Dirt : 13315
+ Crated Fertilizer : 13317
+ Crated Glowstone : 13319
+ Crated Gravel : 13320
+ Crated Humus : 13323
+ Crated Lapis : 13324
+ Crated Mulch : 13325
+ Crated Mycelium : 13326
+ Crated Netherbrick : 13327
+ Crated Netherrack : 13328
+ Crated Netherwart : 13329
+ Crated Nikolite : 13330
+ Crated Obsian : 13331
+ Crated Peat : 13332
+ Crated Phosphor : 13333
+ Crated Redstone : 13336
+ Crated Reeds : 13337
+ Crated Resin : 13339
+ Crated Rubber : 13341
+ Crated Sand : 13342
+ Crated Sandstone : 13343
+ Crated Saplings : 13344
+ Crated Scrap : 13345
+ Crated Seeds : 13346
+Crated Silver : 13347
+ Crated Soulsand : 13349
+ Crated Stone : 13350
+ Crated Tin : 13352
+ Crated Uum : 13353
+ Crated Wheat : 13354
+ Crated Wood : 13355
+ Decayingwheat : 13356
+ Storage.Items.Itembackpack : 13357
+ Storage.Items.Itembackpack : 13358
+ Fertilizerbio : 13359
+ Fertilizercompound : 13360
+ Storage.Items.Itembackpack : 13361
+ Storage.Items.Itembackpack : 13362
+ Frameimpregnated : 13363
+ Frameproven : 13364
+ Frameuntreated : 13365
+ Gearbronze : 13366
+ Gearcopper : 13367
+ Geartin : 13368
+ Hardenedmachine : 13369
+ Honeydrop : 13370
+ Honeypot : 13371
+ Honeydew : 13372
+ Honeyedslice : 13373
+ Storage.Items.Itembackpack : 13374
+ Storage.Items.Itembackpack : 13375
+ Impregnatedcasing : 13376
+ Imprinter : 13377
+ Infuser : 13378
+ Ingotbronze : 13379
+ Ingotcopper : 13380
+ Ingottin : 13381
+ Iodinecapsule : 13382
+ Kitpickaxe : 13383
+ Kitshovel : 13384
+ Letters : 13385
+ Liquglass : 13386
+ Liquhoney : 13387
+ Liquice : 13388
+ Liqumead : 13389
+ Treealyzer : 13390
+ Liquseedoil : 13391
+ Storage.Items.Itembackpack : 13392
+ Storage.Items.Itembackpack : 13393
+ Mouldywheat : 13394
+ Mulch : 13395
+ Oakstick : 13396
+ Peat : 13397
+ Phosphor : 13398
+ Pipette : 13399
+ Pollen : 13400
+ Propolis : 13401
+ Refractorybiofuel : 13402
+ Refractorybiomass : 13403
+ Refractoryempty : 13404
+ Refractoryfuel : 13405
+ Refractoryhoney : 13406
+ Refractoryice : 13407
+ Refractoryjuice : 13408
+ Refractorylava : 13409
+ Refractoryoil : 13410
+ Refractoryseedoil : 13411
+ Refractorywater : 13412
+ Refractorywax : 13413
+ Royaljelly : 13414
+ Arboriculture.Items.Itemgermlingge : 13415
+ Scoop : 13416
+ Shortmead : 13417
+ Solderingiron : 13418
+ Stamps : 13419
+ Sturdymachine : 13420
+ Thermionictubes : 13421
+ Vialcatalyst : 13422
+ Watercan : 13423
+ Waxcapsule : 13424
+ Waxcapsulebiofuel : 13425
+ Waxcapsulebiomass : 13426
+ Waxcapsulefuel : 13427
+ Waxcapsulehoney : 13428
+ Waxcapsuleice : 13429
+ Waxcapsulejuice : 13430
+ Waxcapsuleoil : 13431
+ Waxcapsuleseedoil : 13432
+ Waxcapsulewater : 13433
+ Waxcast : 13434
+ Woodpulp : 13435
+ Wrench : 13436
+ Grafter : 13437
+ Portalgunblue : 13457
+ Portalgunorange : 13458
+ Portalspawner : 13459
+ Portallfb : 13460
+ Portallfbs : 13461
+ Portalmulti  : 13462
+ Portalturret : 13463
+ Portalapg : 13464
+ Portalafp  : 13465
+ Portaldust : 13466
+ Portalpotato : 13467
+ Portalblackhole : 13468
+ Record : 13657
+ Record : 13658
+ Record : 13659
+ Crated Honeycombs : 13783
+ Crated Beeswax : 13784
+ Crated Pollen : 13785
+ Crated Propolis : 13786
+ Crated Honeydew : 13787
+ Crated Royaljelly : 13788
+ Crated Cocoacomb : 13789
+ Crated Simmeringcombs : 13801
+ Crated Stringycombs : 13802
+ Crated Frozencombs : 13803
+ Crated Drippingcombs : 13804
+ Crated Refractorywax : 13805
+ Fruits : 13806
+ Pipeitemspropolis : 14256
+ Pipegateautarchic : 19256
+ Pipefacade : 19257
+ Pipeitemsvo : 19406
+ Pipeliqusvo : 19407
+ Pipeitemssandstone : 19408
+ Pipeliqussandstone : 19409
+ Irongoldupgrade : 19757
+ Golddiamondupgrade : 19758
+ Coppersilverupgrade : 19759
+ Silvergoldupgrade : 19760
+ Copperironupgrade : 19761
+ Diamondcrystalupgrade : 19762
+ Woodironupgrade : 19763
+ Woodcopperupgrade : 19764
+ Diamondobsianupgrade : 19765
+ Material : 20257
+ Tool : 20258
+ Tool : 20259
+ Unused  : 20260
+ Liqu : 20261
+ Component : 20262
+ Tool : 20263
+ Gt_Materials : 21256
+ Gt_Dusts : 21257
+ Gt_Cells : 21258
+ Gt_Components : 21259
+ Gt_Smalldusts : 21260
+ Gt_Nuggets : 21261
+ Gt_Liqus : 21269
+ Gt_Gasses : 21270
+ Gt_Plasma : 21271
+ Gregtech_Sensorcard : 21272
+ Gregtech_Sensorkit : 21273
+ Ultimate_Cheat_Armor : 21274
+ Iron_Mortar : 21286
+ Flint_Mortar : 21287
+ Sonictron : 21288
+ Destructopack : 21289
+ 60K_Helium_Coolantcell : 21290
+ 180K_Helium_Coolantcell : 21291
+ 360K_Helium_Coolantcell : 21292
+ Lapotronic_Energyorb : 21293
+ Cloaking_Device : 21294
+ Iron_Jack_Hammer : 21295
+ Irium_Neutronreflector : 21296
+ Steel_Jack_Hammer : 21297
+ Diamond_Jack_Hammer : 21298
+ Dataorb : 21299
+ Lighthelmet : 21300
+ Lapotronpack : 21301
+ Rockcutter : 21302
+ Teslastaff : 21303
+ Thoriumcell : 21304
+ Double_Thoriumcell : 21305
+ Quad_Thoriumcell : 21306
+ Plutoniumcell : 21307
+ Double_Plutoniumcell : 21308
+ Quad_Plutoniumcell : 21309
+ Debug_Scanner : 21311
+ Lithium_Battery_Empty : 21312
+ Lithium_Battery : 21313
+ Lithium_Batpack : 21314
+ 60K_Nak_Coolantcell : 21316
+ 180K_Nak_Coolantcell : 21317
+ 360K_Nak_Coolantcell : 21318
+ Bluexychorium : 24256
+ Greenxychorium : 24257
+ Redxychorium : 24258
+ Darkxychorium : 24259
+ Lightxychorium : 24260
+ Bluexychorite : 24261
+ Greenxychorite : 24262
+ Redxychorite : 24263
+ Darkxychorite : 24264
+ Lightxychorite : 24265
+ Aluminum : 24266
+ Sulfur : 24267
+ Sulfurgoo : 24268
+ Corn : 24269
+ Kernel : 24270
+ Henequenseeds : 24271
+ Henequenleaf : 24272
+ Twine : 24273
+ Popcorn : 24274
+ Corncob : 24275
+ Aluminumfoil : 24276
+ Liqu.Xyliqu : 24456
+ Machines.Items.Materialitems : 24656
+ Wandcastingapprentice : 25256
+ Wandcastingadept : 25257
+ Wandcastingmage : 25258
+ Wandfire : 25259
+ Wandlightning : 25260
+ Itemessence : 25261
+ Itemwispessence : 25262
+ Itemresource : 25263
+ Itemshard : 25264
+ Itemresearchnotes : 25265
+ Iteminkwell : 25266
+ Itemthaumonomicon : 25267
+ Itemportablehole : 25268
+ Itemthaumometer : 25269
+ Itemflyingcarpet : 25270
+ Itemgolemplacer : 25271
+ Itemgoggles : 25272
+ Itemhelmetthaumium : 25273
+ Itemchestplatethaumium : 25274
+ Itemleggingsthaumium : 25275
+ Itembootsthaumium : 25276
+ Itemshovelthaumium : 25277
+ Itempickthaumium : 25278
+ Itemaxethaumium : 25279
+ Itemswordthaumium : 25280
+ Itemhoethaumium : 25281
+ Itemgolemcore : 25282
+ Wandtrade : 25283
+ Wandexcavation : 25284
+ Itemarcanedoor : 25285
+ Itemnugget : 25286
+ Bootstraveller : 25287
+ Itemnuggetchicken : 25288
+ Itemnuggetbeef : 25289
+ Itemnuggetpork : 25290
+ Blockjarfilled  : 25291
+ Itemgolemdecoration : 25292
+ Hellrod : 25293
+ Wandfrost : 25294
+ Triplemeattreat : 25295
+ Itemswordelemental : 25296
+ Itemshovelelemental : 25297
+ Itempickaxeelemental : 25298
+ Itemaxeelemental : 25299
+ Itemhoeelemental : 25300
+ Itemchestplaterobe : 25301
+ Itemleggingsrobe : 25302
+ Itembootsrobe : 25303
+ Arcanedoorkey : 25304
+ Handmirror : 25305
+ Itemcomb : 26346
+ Itemwax : 26347
+ Itempropolis : 26348
+ Itemdrop : 26349
+ Itemmiscresources : 26350
+ Storage.Items.Itembackpack : 26351
+ Storage.Items.Itembackpack : 26352
+ Itemcapsule : 26353
+ Itempollen : 26354
+ Itemsolflux : 26355
+ Itemmagichiveframe : 26356
+ Itemmagichiveframe : 26357
+ Itemmagichiveframe : 26358
+ Itemmagichiveframe : 26359
+ Itemmagichiveframe : 26360
+ Itemmagichiveframe : 26361
+ Jellybabies : 26371
+ Itemcapsule : 26372
+ Tb.Thaumiumscoop : 26373
+ Tb.Thaumiumgrafter : 26374
+ Miscperipherals.Itemmulti : 26710
+ Storage.Items.Itembackpack : 26711
+ Storage.Items.Itembackpack : 26712
+ Charmofkeeping1 : 27256
+ Charmofkeeping2 : 27257
+ Charmofkeeping3 : 27258
+ Charmoflife1 : 27259
+ Charmoflife2 : 27260
+ Crumblehorn : 27261
+ Emptymagicmap : 27262
+ Emptymazemap : 27263
+ Emptyoremap : 27264
+ Tffeather : 27265
+ Fieryblood : 27266
+ Fieryboots : 27267
+ Fieryhelm : 27268
+ Fieryingot : 27269
+ Fierylegs : 27270
+ Fierypick : 27271
+ Fieryplate : 27272
+ Fierysword : 27273
+ Hydrachop : 27274
+ Hydratrophy : 27275
+ Ironwood Axe : 27276
+ Ironwood Boots : 27277
+ Ironwood Helm : 27278
+ Ironwood Hoe : 27279
+ Ironwood Ingot : 27280
+ Ironwood Legs : 27281
+ Ironwood Pick : 27282
+ Unused  : 27283
+ Ironwood Raw : 27284
+ Ironwood Shovel : 27285
+ Ironwood Sword : 27286
+ Legsnaga : 27287
+ Liveroot : 27288
+ Magicmap : 27289
+ Magicmapfocus : 27290
+ Mazemap : 27291
+ Mazemapfocus : 27292
+ Mazewafer : 27293
+ Mazebreakerpick : 27294
+ Meefraw : 27295
+ Meefsteak : 27296
+ Meefstroganoff : 27297
+ Minotauraxe : 27298
+ Moonwormqueen : 27299
+ Nagascale : 27300
+ Oremagnet : 27301
+ Oremap : 27302
+ Oremeter : 27303
+ Peacockfan : 27304
+ Platenaga : 27305
+ Scepterlifedrain : 27306
+ Sceptertwilight : 27307
+ Scepterzombie : 27308
+ Tfspawnegg : 27309
+ Steeleaf Axe : 27310
+ Steeleaf Boots : 27311
+ Steeleaf Helm : 27312
+ Steeleaf Hoe : 27313
+ Steeleaf Ingot : 27314
+ Steeleaf Legs : 27315
+ Steeleaf Pick : 27316
+ Steeleaf Plate : 27317
+ Steeleaf Shovel : 27318
+ Steeleaf Sword : 27319
+ Torchberries : 27320
+ Transformpowder : 27321
+ Venisoncooked : 27322
+ Venisonraw : 27323
+ Ironwood Plate : 27976
+ Towerkey : 28027
+ Boreressence : 28028
+ Carminite : 28029
+ Diesel : 29256
+ Stake : 29257
+ Steeldust : 29258
+ Coaldust : 29259
+ Graphite : 29260
+ Boiler : 29261
+ Firebox : 29262
+ Bogie : 29263
+ Steelframe : 29264
+ Steelcab : 29265
+ Steelchimney : 29266
+ Zeppelin : 29267
+ Balloon : 29268
+ Propeller : 29269
+ Steamengine : 29270
+ Dieselengine : 29271
+ Piston : 29272
+ Camshaft : 29273
+ Cylinder : 29274
+ Electmotor : 29275
+ Woodenframe : 29276
+ Woodenbogie : 29277
+ Woodencab : 29278
+ Ironchimney : 29279
+ Ironfirebox : 29280
+ Ironboiler : 29281
+ Ironframe : 29282
+ Ironbogie : 29283
+ Ironcab : 29284
+ Unused  : 29285
+ Unused  : 29286
+ Steel : 29287
+ Refinedfuel : 29288
+ Unused  : 29289
+ Minecart Work : 29290
+ Minecart Tender : 29291
+ Minecart  Chest : 29292
+ Minecart Power : 29293
+ Minecart Loco3 : 29294
+ Minecart Loco4 : 29295
+ Minecart Builder : 29296
+ Minecart Caboose : 29297
+ Minecart Grain : 29298
+ Minecart Watertransp : 29299
+ Minecart Wood : 29300
+ Minecart Passenger2 : 29301
+ Minecart Tram : 29302
+ Minecart Speed : 29303
+ Minecart Eu07 : 29304
+ Minecart Shunter : 29305
+ Minecart Vl10 : 29306
+ Minecart Tramwood : 29307
+ Minecart Chme3 : 29308
+ Minecart Heavysteam : 29309
+ Minecart Tenderheavy : 29310
+ Minecart Flatcart : 29311
+ Minecart Highspeedcar : 29312
+ Minecart Newhighspeedloco : 29313
+ Minecart Freightcart2 : 29314
+ Minecart Openwagon : 29315
+ Minecart Tankwagon : 29316
+ Minecart Jukeboxcart : 29317
+ Minecart Stockcar : 29318
+ Minecart Caboosework : 29319
+ Minecart Passenger5 : 29320
+ Minecart Tankwagon2 : 29321
+ Minecart Passengerblue : 29322
+ Minecart Gp7Red : 29323
+ Minecart Gp40Alaska : 29324
+ Minecart Flatcartsu : 29325
+ Minecart Flatcartus : 29326
+ Minecart Boxcartus : 29327
+ Minecart Freighthopperus : 29328
+ Minecart Tankwagonus : 29329
+ Minecart Flatcartwoodus : 29330
+ Minecart Freightcartus : 29331
+ Minecart Freightcartsmall : 29332
+ Minecart Lococherepanov : 29333
+ Minecart Minetrain : 29334
+ Minecart Locominetrain : 29335
+ Minecart Steamredtender : 29336
+ Minecart Freightwood2 : 29337
+ Minecart Caboose3 : 29338
+ Minecart Passenger7 : 29339
+ Minecart Freightclosed : 29340
+ Minecart Freightopen2 : 29341
+ Minecart Locomogulblue : 29342
+ Minecart Locoforneyred : 29343
+ Minecart Locobr01_Db : 29344
+ Minecart Mailwagon_Db : 29345
+ Minecart Freightwagon_Db : 29346
+ Minecart Passenger8_1Class_Db : 29347
+ Minecart Passenger9_2Class_Db : 29348
+ Minecart Locobr80_Db : 29349
+ Minecart Tenderbr01_Db : 29350
+ Minecart Flatcartrail_Db : 29351
+ Minecart Flatcart_Db : 29352
+ Minecart Flatcartlogs_Db : 29353
+ Minecart Freightgondola_Db : 29354
+ Minecart Tankwagon_Db : 29355
+ Minecart Locosd70 : 29356
+ Minecart Locoer : 29357
+ Minecart Tenderer : 29358
+ Minecart Locosd40 : 29359
+ Minecart Freightcenterbeam_Empty : 29360
+ Minecart Freightcenterbeam_Wood_1 : 29361
+ Minecart Freightcenterbeam_Wood_2 : 29362
+ Minecart Freighttrailer : 29363
+ Minecart Freightwellcar : 29364
+ Minecart Kof_Db : 29365
+ Minecart V60_Db : 29366
+ Vswe.Stevescarts.Items.Itemcartmodule : 29997
+ Vswe.Stevescarts.Items.Itemcartcomponent : 29998
+ Vswe.Stevescarts.Items.Itemcarts : 29999
+ Refinedirondust : 30031
+ Itemnightvisiongoggles : 30078
+ Itemcellair : 30079
+ Itemarmorhazmatleggings : 30080
+ Itemarmorhazmatchestplate : 30081
+ Itemarmorhazmathelmet : 30082
+ Reactor Condensatorlap : 30083
+ Dcp : 30084
+ Reactor Condensator : 30085
+ Reactor Reflectorthick : 30086
+ Reactor Reflector : 30087
+ Reactor Heatpack : 30088
+ Reactor Ventdiamond : 30089
+ Reactor Ventspread : 30090
+ Reactor Ventgold : 30091
+ Reactor Ventcore : 30092
+ Reactor Vent : 30093
+ Reactor Heatswitchdiamond : 30094
+ Reactor Heatswitchspread : 30095
+ Reactor Heatswitchcore : 30096
+ Reactor Platingexplosive : 30097
+ Reactor Platingheat : 30098
+ Reactor Coolantsix : 30099
+ Reactor Coolanttriple : 30100
+ Reactor Uraniumquad : 30101
+ Reactor Uraniumdual : 30102
+ Itemcoolant : 30103
+ .Tool.Itemdebug : 30104
+ Itemweedex : 30105
+ Itemgrinpowder : 30106
+ .Itembooze : 30107
+ Itembarrel : 30108
+ Itemhops : 30109
+ .Itemmugcoffee : 30110
+ Itemmugempty : 30111
+ Itemcoffeepowder : 30112
+ Itemcoffeebeans : 30113
+ Itemterrawart : 30114
+ Itemstaticboots : 30115
+ Itemsolarhelmet : 30116
+ Box : 30117
+ Itemtfbpmushroom : 30118
+ Hoe : 30119
+ Itemcellhydrant : 30120
+ Itemfertilizer : 30121
+ Itemcropnalyzer : 30122
+ Unused  : 30123
+ Itemtreetapelectric : 30124
+ .Itemupgrademodule : 30125
+ Itemcropseed : 30126
+ Itemarmorlappack : 30127
+ Itemoreirium : 30128
+ Itemarmorcfpack : 30129
+ Itemdustsilver : 30130
+ Itemfoamsprayer : 30131
+ Pellet : 30132
+ Itemdustclay : 30133
+ Itemfreq : 30134
+ Industrialdiamond : 30135
+ Coalchunk : 30136
+ Coal  : 30137
+ Coalball : 30138
+ Itemscrapbox : 30139
+ Wrenchelectric : 30140
+ Itemtfbpflatification : 30141
+ Itemtfbpdesertification : 30142
+ Itemtfbpchilling : 30143
+ Itemtfbpirrigation : 30144
+ Itemtfbpcultivation : 30145
+ Itemtfbp : 30146
+ Irium : 30147
+ Itemnanosaber : 30148
+ Itemnanosaber : 30149
+ Carbonplate : 30150
+ Carbonmesh : 30151
+ Carbonfibre : 30152
+ Cutter : 30153
+ Painter : 30154
+ Painter : 30155
+ Painter : 30156
+ Painter : 30157
+ Painter : 30158
+ Painter : 30159
+ Painter : 30160
+ Painter : 30161
+ Painter : 30162
+ Painter : 30163
+ Painter : 30164
+ Painter : 30165
+ Painter : 30166
+ Painter : 30167
+ Painter : 30168
+ Painter : 30169
+ Painter : 30170
+ Itemarmorquantumboots : 30171
+ Itemarmorquantumlegs : 30172
+ Itemarmorquantumchestplate : 30173
+ Itemarmorquantumhelmet : 30174
+ Itemarmornanoboots : 30175
+ Itemarmornanolegs : 30176
+ Itemarmornanochestplate : 30177
+ Itemarmornanohelmet : 30178
+ Itemarmoralloychestplate : 30179
+ Itemarmorbatpack : 30180
+ Itemcellwaterelectro : 30181
+ Meter : 30182
+ Wrench : 30183
+ .Block.Itemcable : 30184
+ Itemdooralloy : 30185
+ Itemcoin : 30186
+ Alloy : 30187
+ Itemmatter : 30188
+ Itemscrap : 30189
+ Circuitadv : 30190
+ Circuit : 30191
+ Itemarmorbronzeboots : 30192
+ Itemarmorbronzelegs : 30193
+ Itemarmorbronzechestplate : 30194
+ Itemarmorbronzehelmet : 30195
+ Bronzehoe : 30196
+ Bronzespade : 30197
+ Bronzesword : 30198
+ Bronzeaxe : 30199
+ Bronzepickaxe : 30200
+ Itemcelluranempty : 30201
+ Itemcelluranenriched : 30202
+ Reactor Isotopecell : 30203
+ Reactor Heatswitch : 30204
+ Reactor Plating : 30205
+ Reactor Coolantsimple : 30206
+ Reactor Uraniumsimple : 30207
+ Mininglaser : 30208
+ Itemarmorjetpackelectric : 30209
+ Itemarmorjetpack : 30210
+ Itemarmorrubboots : 30211
+ Itemtreetap : 30212
+ Itemremote : 30213
+ Itemdynamitesticky : 30214
+ Itemdynamite : 30215
+ Itemrubber : 30216
+ Itemharz : 30217
+ Itemcellwater : 30218
+ Itemscanneradv : 30219
+ Itemscanner : 30220
+ Itemtincanfilled : 30221
+ Itemtincan : 30222
+ Itemfuelplantcmpr : 30223
+ Itemfuelplantball : 30224
+ Itemfuelcoalcmpr : 30225
+ Itemfuelcoaldust : 30226
+ Itemcellbioref : 30227
+ Itemcellcoalref : 30228
+ Itemcellbio : 30229
+ Itemcellcoal : 30230
+ Itemfuelcanempty : 30231
+ Itemfuelcan : 30232
+ Chainsaw : 30233
+ Ddrill : 30234
+ Drill : 30235
+ Itemcelllava : 30236
+ Itemcellempty : 30237
+ Itembatsu : 30238
+ Itembatre : 30239
+ Itembatlamacrystal : 30240
+ Itembatcrystal : 30241
+ Itembatre : 30242
+ Refind Uranium : 30243
+ Itemingoturan : 30244
+ Itemingotalloy : 30245
+ Itemingotbronze : 30246
+ Itemingottin : 30247
+ Itemingotcopper : 30248
+ Itemingotadviron : 30249
+ Itemdustironsmall : 30250
+ Itemdustbronze : 30251
+ Itemdusttin : 30252
+ Itemdustcopper : 30253
+ Itemdustgold : 30254
+ Itemdustiron : 30255
+ Itemdustcoal : 30256
+ Ingotirium : 30356
+ Itemcountersensorkit : 30376
+ Shedar.Mods.Nuclearcontrol.Items.Itemcardmultiplesensorlocation : 30377
+ Itemenergyarraylocationcard : 30378
+ Itemenergysensorkit : 30379
+ Itemenergysensorlocationcard : 30380
+Shedar.Mods.Nuclearcontrol.Items.Itemupgrade : 30381
+Itemremotesensorkit : 30382
+Itemsensorlocationcard : 30383
+Itemtextcard : 30384
+Itemtimecard : 30385
+Digitalthermometer : 30386
+Thermometer : 30387
+Gravichestplate : 30473
+Ultimatelappack : 30474
+Itemsimpleitems : 30475
+Ultimate Solar Helmet  : 30476
+Vajra  : 30477
+Advanced Diamond Drill  : 30478
+Advanced Chainsaw  : 30479
+Advanced Lappack  : 30480
+Advanced Electric Jetpack  : 30481
+Gravitool  : 30482
