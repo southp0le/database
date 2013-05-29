@@ -289,51 +289,51 @@ Diamond Hoe : 293
  Brewingstand : 379
  Cauldron : 380
  Endereye : 381
- Speckledmelon : 382
+ Speckled Melon : 382
  Monsterplacer : 383
- Expbottle : 384
+ Exp Bottle : 384
  Fireball : 385
- Writingbook : 386
- Writtenbook : 387
+ Writing Book : 386
+ Written Book : 387
  Emerald : 388
  Frame : 389
  Flowerpot : 390
  Carrots : 391
  Potato : 392
- Potatobaked : 393
- Potatopoisonous : 394
- Emptymap : 395
- Carrotgolden : 396
+ Backed Potato : 393
+ Poisonous Potato: 394
+ Empty Map : 395
+ Golden Carrot : 396
  Skull : 397
- Carrotonastick : 398
+ Carrot on a Stick : 398
  Netherstar : 399
  Pumpkinpie : 400
  Fireworks : 401
  Fireworkscharge : 402
- Enchantedbook : 403
+ Enchanted Book : 403
 Architectblock : 500
-Buildcraft.Silicon.Blockassemblytable : 501
-Autoworkbenchblock : 502
-Libraryblock : 503
-Builderblock : 504
-Plainpipeblock : 505
-Engineblock : 506
-Fillerblock : 507
-Frameblock : 508
-Blockhopper : 509
-Laserblock : 510
-Markerblock : 511
-Miningwellblock : 512
-Pathmarkerblock : 513
-Buildcraft.Transport.Blockgenericpipe : 514
-Pumpblock : 515
-Machineblock : 516
-Refineryblock : 517
-Tankblock : 518
+Assemblytable : 501
+Autoworkbench : 502
+Library : 503
+Builder : 504
+Plain Pipe : 505
+Engine : 506
+Filler : 507
+Frame : 508
+Hopper : 509
+Laser : 510
+Marker : 511
+Miningwell : 512
+Pathmarker : 513
+Pipe : 514
+Pump : 515
+Machine : 516
+Refinery : 517
+Tank : 518
 Eternalspring : 519
-Omnitools.Block.Blockplinth : 580
-Blockalloy : 600
-Blockalloyglass : 601
+Omnitools : 580
+Alloy : 600
+Alloy Glass : 601
 .Block.Blockbarrel : 602
 .Block.Wiring.Blockcable : 603
 Blockcrop : 604
