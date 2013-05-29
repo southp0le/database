@@ -32,7 +32,7 @@ Tall grass : 31
 Deadbush : 32
 Piston : 33
 Aob : 34
-Cloth : 35
+Wool : 35
 Aoc : 36
 Flower : 37
 Brose : 38
@@ -61,10 +61,10 @@ Farmland : 60
 Furnace : 61
 Furnace : 62
 Sign : 63
-Doorwood : 64
+Wood Door : 64
 Ladder : 65
 Rail : 66
-Stairsstone : 67
+Stone Stairs : 67
 Sign : 68
 Lever : 69
 Pressureplate : 70
@@ -84,36 +84,36 @@ Reeds : 83
 Jukebox : 84
 Fence : 85
 Pumpkin : 86
-Hellrock : 87
-Hellsand : 88
+Netherrack: 87
+Soulsand : 88
 Lightgem : 89
 Portal : 90
 Litpumpkin : 91
 Cake : 92
 Diode : 93
 Diode : 94
-Lockedchest : 95
+Locked Chest : 95
 Trapdoor : 96
 Monsterstoneegg : 97
-Stonebricksmooth : 98
+Stonebrick smooth : 98
 Mushroom : 99
 Mushroom : 100
-Fenceiron : 101
-Thinglass : 102
+Iron Fence : 101
+Thin Glass : 102
 Melon : 103
 Pumpkinstem : 104
 Pumpkinstem : 105
 Vine : 106
 Fencegate : 107
-Stairsbrick : 108
-Stairsstonebricksmooth : 109
-Mycel : 110
+Brick Stairs : 108
+Stonebrick Stairs : 109
+Mycilium : 110
 Waterlily : 111
 Netherbrick : 112
 Netherfence : 113
-Stairsnetherbrick : 114
+Netherbrick Stairs : 114
 Netherstalk : 115
-Enchantmenttable : 116
+Enchantment Table : 116
 Brewingstand : 117
 Cauldron : 118
 Amn : 119
@@ -122,18 +122,18 @@ Whitestone : 121
 Dragonegg : 122
 Redstonelight : 123
 Redstonelight : 124
-Woodslab : 125
-Woodslab : 126
+Wooden Slab : 125
+Wooden Slab : 126
 Cocoa : 127
-Stairssandstone : 128
+Sandstone Stairs: 128
 Emerald Ore : 129
 Enderchest : 130
-Tripwiresource : 131
+Tripwire Hook : 131
 Tripwire : 132
-Blockemerald : 133
-Stairswoodspruce : 134
-Stairswoodbirch : 135
-Stairswoodjungle : 136
+Emerald Block: 133
+Spruce Stairs : 134
+Birch Stairs : 135
+Jungle Stairs : 136
 Commandblock : 137
 Beacon : 138
 Cobblewall : 139
@@ -143,103 +143,101 @@ Potatoes : 142
 Button : 143
 Skull : 144
 Anvil : 145
-Blockcustomore : 200
-Com.Eloraam.Redpower.World.Blockcustomcrops.
-Rpleaves : 211
-Rplog : 212
-Rpores : 213
+ockcustomore : 200
+Reaves : 211
+log : 212
+ores : 213
 Indigo : 214
-Rpstone : 215
-Com.Eloraam.Redpower.World.Blockstorage : 
-World.Blocks.Worldgen.Xyore : 220
-World.Blocks.Worldgen.Quartzcrystal : 221
-Chickenchunkloader : 243
+Rpstone : 218
+Xyore : 220
+Quartzcrystal : 221
+Chunkloader : 243
 Rcores : 244
 Uranium Ore: 245
 Petroleum : 246
-Oilsands : 247
+Oilsand : 247
 Factorizationresourceblock : 248
 Apatite : 249
 Copper Ore : 250
-.Redrock : 251
-.Crackedsand : 252
+Redrock : 251
+Crackedsand : 252
 Oilmoving : 254
 Oilstill : 255
- Shoveliron : 256
- Pickaxeiron : 257
- Hatchetiron : 258
- Flintandsteel : 259
+Iron Shovel : 256
+Iron Pickaxe : 257
+Iron Hatchet : 258
+ Flint & Steel : 259
  Apple : 260
  Bow : 261
  Arrow : 262
  Coal : 263
  Diamond : 264
- Ingotiron : 265
- Ingotgold : 266
- Swordiron : 267
- Swordwood : 268
- Shovelwood : 269
- Pickaxewood : 270
- Hatchetwood : 271
+ Iron Ingot : 265
+ Gold Ingot : 266
+ Iron Sword : 267
+ Wood Sword : 268
+ Wood Shovel : 269
+ Wood Pickaxe : 270
+ Wood Hatchet : 271
  Swordstone : 272
- Shovelstone : 273
- Pickaxestone : 274
- Hatchetstone : 275
- Sworddiamond : 276
- Shoveldiamond : 277
- Pickaxediamond : 278
- Hatchetdiamond : 279
+ Stone Shovel : 273
+ Stone Pickaxe : 274
+ Stone Hatchet : 275
+ Diamond Sword : 276
+ Diamond Shovel : 277
+ Diamond Pickaxe : 278
+Diamond Hatchet : 279
  Stick : 280
  Bowl : 281
  Mushroomstew : 282
- Swordgold : 283
- Shovelgold : 284
- Pickaxegold : 285
- Hatchetgold : 286
+ Gold Sword : 283
+ Gold Shovel : 284
+ Gold Pickaxe : 285
+ Gold Hatchet : 286
  String : 287
  Feather : 288
  Sulphur : 289
- Hoewood : 290
- Hoestone : 291
- Hoeiron : 292
- Hoediamond : 293
- Hoegold : 294
+ Wood Hoe: 290
+ Stone Hoe : 291
+Iron Hoe : 292
+Diamond Hoe : 293
+ Gold Hoe : 294
  Seeds : 295
  Wheat : 296
  Bread : 297
- Helmetcloth : 298
- Chestplatecloth : 299
- Leggingscloth : 300
- Bootscloth : 301
- Helmetchain : 302
- Chestplatechain : 303
- Leggingschain : 304
- Bootschain : 305
+ Leather Helmet : 298
+ Leather Chestplate : 299
+ Leather Leggings : 300
+ Leather Boots : 301
+ Chainmail Helmet : 302
+ Chainmail Chestplate : 303
+ Chainmail Leggings : 304
+ Chainmail Boots : 305
  Helmetiron : 306
  Chestplateiron : 307
  Leggingsiron : 308
- Bootsiron : 309
- Helmetdiamond : 310
- Chestplatediamond : 311
- Leggingsdiamond : 312
- Bootsdiamond : 313
- Helmetgold : 314
- Chestplategold : 315
- Leggingsgold : 316
- Bootsgold : 317
+ Iron Boots : 309
+ Diamond Helmet : 310
+ Diamond Chestplate : 311
+ Diamond Leggings : 312
+ Diamond Boots : 313
+ Gold Helmet : 314
+ Gold Chestplate : 315
+ Gold Leggings : 316
+ Gold Boots : 317
  Flint : 318
- Porkchopraw : 319
- Porkchopcooked : 320
+ raw Porkchop : 319
+ cooked Porkchop: 320
  Painting : 321
- Applegold : 322
+ Golden Apple : 322
  Sign : 323
- Doorwood : 324
+ Wooden Door: 324
  Bucket : 325
- Bucketwater : 326
- Bucketlava : 327
- Rc.Cart.Basic : 328
+ Water Bucket : 326
+ Lava Bucket : 327
+ Minecart : 328
  Saddle : 329
- Dooriron : 330
+ Iron Door : 330
  Redstone : 331
  Snowball : 332
  Boat : 333
@@ -251,16 +249,16 @@ Oilstill : 255
  Paper : 339
  Book : 340
  Slimeball : 341
- Rc.Cart.Chest : 342
- Rc.Cart.Furnace : 343
+ Chest Cart: 342
+ Furnace Cart: 343
  Egg : 344
  Compass : 345
  Fishingrod : 346
  Clock : 347
  Yellowdust : 348
- Fishraw : 349
- Fishcooked : 350
- Dyepowder : 351
+ raw Fish : 349
+ cooked Fish : 350
+ Dye : 351
  Bone : 352
  Sugar : 353
  Cake : 354
@@ -270,12 +268,12 @@ Oilstill : 255
  Map : 358
  Shears : 359
  Melon : 360
- Seeds_Pumpkin : 361
- Seeds_Melon : 362
- Beefraw : 363
- Beefcooked : 364
- Chickenraw : 365
- Chickencooked : 366
+ Pumpkin Seeds: 361
+ Melon Seeds: 362
+ Raw Beef : 363
+ Cooked Beef : 364
+ Raw Chicken : 365
+ Cooked Chicken : 366
  Rottenflesh : 367
  Enderpearl : 368
  Blazerod : 369
@@ -284,13 +282,13 @@ Oilstill : 255
  Netherstalkseeds : 372
  Potion : 373
  Glassbottle : 374
- Spereye : 375
- Fermentedspereye : 376
+ Spidereye : 375
+ Fermented Spidereye : 376
  Blazepowder : 377
  Magmacream : 378
  Brewingstand : 379
  Cauldron : 380
- Eyeofender : 381
+ Endereye : 381
  Speckledmelon : 382
  Monsterplacer : 383
  Expbottle : 384
